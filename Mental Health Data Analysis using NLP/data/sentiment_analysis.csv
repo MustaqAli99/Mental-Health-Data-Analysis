@@ -1,0 +1,3201 @@
+Text,Sentiment,Emotion
+I feel unsafe.,Negative,Fear
+Why is this so difficult?,Negative,Frustration
+I feel so lonely.,Negative,Sadness
+I am so frustrated with this!,Negative,Anger
+This moment is so soothing.,Neutral,Calm
+Why does everything go wrong?,Negative,Anger
+I just can't get this to work!,Negative,Frustration
+I just can't get this to work!,Negative,Frustration
+Nothing is going my way.,Negative,Frustration
+I am so frustrated with this!,Negative,Anger
+I can't believe it!,Positive,Surprise
+I love spending time with my family!,Positive,Joy
+Why does everything go wrong?,Negative,Anger
+I just can't get this to work!,Negative,Frustration
+I am really scared about the future.,Negative,Fear
+Why does everything go wrong?,Negative,Anger
+I can't believe it!,Positive,Surprise
+That was an unexpected turn of events!,Positive,Surprise
+This situation is making me anxious.,Negative,Fear
+This situation is making me anxious.,Negative,Fear
+That was an unexpected turn of events!,Positive,Surprise
+I feel so lonely.,Negative,Sadness
+I miss my best friend.,Negative,Sadness
+Why is this so difficult?,Negative,Frustration
+Why is this so difficult?,Negative,Frustration
+This situation is making me anxious.,Negative,Fear
+What a beautiful day!,Positive,Joy
+I feel unsafe.,Negative,Fear
+Why does everything go wrong?,Negative,Anger
+This is so unfair!,Negative,Anger
+I feel unsafe.,Negative,Fear
+I am so frustrated with this!,Negative,Anger
+What a beautiful day!,Positive,Joy
+I feel amazing today!,Positive,Joy
+I feel unsafe.,Negative,Fear
+That was an unexpected turn of events!,Positive,Surprise
+"Wow, I didn't see that coming!",Positive,Surprise
+This moment is so soothing.,Neutral,Calm
+Why does everything go wrong?,Negative,Anger
+I love spending time with my family!,Positive,Joy
+"Wow, I didn't see that coming!",Positive,Surprise
+I feel amazing today!,Positive,Joy
+I feel unsafe.,Negative,Fear
+This moment is so soothing.,Neutral,Calm
+I love spending time with my family!,Positive,Joy
+What a beautiful day!,Positive,Joy
+This moment is so soothing.,Neutral,Calm
+This moment is so soothing.,Neutral,Calm
+I just can't get this to work!,Negative,Frustration
+I miss my best friend.,Negative,Sadness
+I miss my best friend.,Negative,Sadness
+Everything is peaceful right now.,Neutral,Calm
+I am really scared about the future.,Negative,Fear
+"Wow, I didn't see that coming!",Positive,Surprise
+I just can't get this to work!,Negative,Frustration
+This is so unfair!,Negative,Anger
+Everything is peaceful right now.,Neutral,Calm
+Today was a really bad day.,Negative,Sadness
+I am really scared about the future.,Negative,Fear
+I am really scared about the future.,Negative,Fear
+I can't believe it!,Positive,Surprise
+Why is this so difficult?,Negative,Frustration
+I am really scared about the future.,Negative,Fear
+This moment is so soothing.,Neutral,Calm
+Why does everything go wrong?,Negative,Anger
+That was an unexpected turn of events!,Positive,Surprise
+Why does everything go wrong?,Negative,Anger
+I feel so lonely.,Negative,Sadness
+Why does everything go wrong?,Negative,Anger
+What a beautiful day!,Positive,Joy
+I feel so lonely.,Negative,Sadness
+This moment is so soothing.,Neutral,Calm
+"Wow, I didn't see that coming!",Positive,Surprise
+I feel amazing today!,Positive,Joy
+Why does everything go wrong?,Negative,Anger
+I am really scared about the future.,Negative,Fear
+"Wow, I didn't see that coming!",Positive,Surprise
+I feel unsafe.,Negative,Fear
+"Wow, I didn't see that coming!",Positive,Surprise
+Why does everything go wrong?,Negative,Anger
+This moment is so soothing.,Neutral,Calm
+I miss my best friend.,Negative,Sadness
+I am really scared about the future.,Negative,Fear
+I am so frustrated with this!,Negative,Anger
+This situation is making me anxious.,Negative,Fear
+I feel unsafe.,Negative,Fear
+I am so frustrated with this!,Negative,Anger
+I just can't get this to work!,Negative,Frustration
+I feel amazing today!,Positive,Joy
+Nothing is going my way.,Negative,Frustration
+This situation is making me anxious.,Negative,Fear
+I feel amazing today!,Positive,Joy
+This is so unfair!,Negative,Anger
+I feel so lonely.,Negative,Sadness
+This moment is so soothing.,Neutral,Calm
+I just can't get this to work!,Negative,Frustration
+I can't believe it!,Positive,Surprise
+I feel amazing today!,Positive,Joy
+Nothing is going my way.,Negative,Frustration
+This is so unfair!,Negative,Anger
+This situation is making me anxious.,Negative,Fear
+I am so frustrated with this!,Negative,Anger
+Why is this so difficult?,Negative,Frustration
+I am really scared about the future.,Negative,Fear
+I feel unsafe.,Negative,Fear
+I am so frustrated with this!,Negative,Anger
+Why does everything go wrong?,Negative,Anger
+This moment is so soothing.,Neutral,Calm
+"Wow, I didn't see that coming!",Positive,Surprise
+Why is this so difficult?,Negative,Frustration
+I feel so lonely.,Negative,Sadness
+This situation is making me anxious.,Negative,Fear
+I feel amazing today!,Positive,Joy
+This situation is making me anxious.,Negative,Fear
+I feel amazing today!,Positive,Joy
+Why is this so difficult?,Negative,Frustration
+I feel so lonely.,Negative,Sadness
+Everything is peaceful right now.,Neutral,Calm
+This is so unfair!,Negative,Anger
+I feel unsafe.,Negative,Fear
+I love spending time with my family!,Positive,Joy
+I can't believe it!,Positive,Surprise
+I feel so lonely.,Negative,Sadness
+I am really scared about the future.,Negative,Fear
+"Wow, I didn't see that coming!",Positive,Surprise
+I can't believe it!,Positive,Surprise
+This situation is making me anxious.,Negative,Fear
+"Wow, I didn't see that coming!",Positive,Surprise
+This moment is so soothing.,Neutral,Calm
+I can't believe it!,Positive,Surprise
+This situation is making me anxious.,Negative,Fear
+I miss my best friend.,Negative,Sadness
+What a beautiful day!,Positive,Joy
+I can't believe it!,Positive,Surprise
+I feel very relaxed.,Neutral,Calm
+I love spending time with my family!,Positive,Joy
+I love spending time with my family!,Positive,Joy
+This is so unfair!,Negative,Anger
+Nothing is going my way.,Negative,Frustration
+Everything is peaceful right now.,Neutral,Calm
+I feel very relaxed.,Neutral,Calm
+I love spending time with my family!,Positive,Joy
+Nothing is going my way.,Negative,Frustration
+Why does everything go wrong?,Negative,Anger
+I am really scared about the future.,Negative,Fear
+This situation is making me anxious.,Negative,Fear
+I am really scared about the future.,Negative,Fear
+I feel so lonely.,Negative,Sadness
+I feel very relaxed.,Neutral,Calm
+Why is this so difficult?,Negative,Frustration
+Nothing is going my way.,Negative,Frustration
+I am really scared about the future.,Negative,Fear
+I feel unsafe.,Negative,Fear
+That was an unexpected turn of events!,Positive,Surprise
+Nothing is going my way.,Negative,Frustration
+Today was a really bad day.,Negative,Sadness
+Why does everything go wrong?,Negative,Anger
+I can't believe it!,Positive,Surprise
+I feel amazing today!,Positive,Joy
+Everything is peaceful right now.,Neutral,Calm
+I love spending time with my family!,Positive,Joy
+I love spending time with my family!,Positive,Joy
+This is so unfair!,Negative,Anger
+I just can't get this to work!,Negative,Frustration
+I can't believe it!,Positive,Surprise
+I feel amazing today!,Positive,Joy
+I feel unsafe.,Negative,Fear
+I can't believe it!,Positive,Surprise
+I am really scared about the future.,Negative,Fear
+This moment is so soothing.,Neutral,Calm
+Why does everything go wrong?,Negative,Anger
+I can't believe it!,Positive,Surprise
+I feel very relaxed.,Neutral,Calm
+"Wow, I didn't see that coming!",Positive,Surprise
+I miss my best friend.,Negative,Sadness
+Nothing is going my way.,Negative,Frustration
+"Wow, I didn't see that coming!",Positive,Surprise
+I just can't get this to work!,Negative,Frustration
+Why does everything go wrong?,Negative,Anger
+I miss my best friend.,Negative,Sadness
+I can't believe it!,Positive,Surprise
+This is so unfair!,Negative,Anger
+That was an unexpected turn of events!,Positive,Surprise
+I feel amazing today!,Positive,Joy
+This moment is so soothing.,Neutral,Calm
+I feel so lonely.,Negative,Sadness
+I feel very relaxed.,Neutral,Calm
+I love spending time with my family!,Positive,Joy
+I can't believe it!,Positive,Surprise
+I love spending time with my family!,Positive,Joy
+I am really scared about the future.,Negative,Fear
+What a beautiful day!,Positive,Joy
+What a beautiful day!,Positive,Joy
+I love spending time with my family!,Positive,Joy
+This is so unfair!,Negative,Anger
+I am so frustrated with this!,Negative,Anger
+Nothing is going my way.,Negative,Frustration
+I am really scared about the future.,Negative,Fear
+This situation is making me anxious.,Negative,Fear
+This situation is making me anxious.,Negative,Fear
+I am really scared about the future.,Negative,Fear
+I can't believe it!,Positive,Surprise
+Everything is peaceful right now.,Neutral,Calm
+I am really scared about the future.,Negative,Fear
+Everything is peaceful right now.,Neutral,Calm
+This is so unfair!,Negative,Anger
+Today was a really bad day.,Negative,Sadness
+I am really scared about the future.,Negative,Fear
+I feel so lonely.,Negative,Sadness
+Why does everything go wrong?,Negative,Anger
+"Wow, I didn't see that coming!",Positive,Surprise
+I feel amazing today!,Positive,Joy
+I miss my best friend.,Negative,Sadness
+I feel amazing today!,Positive,Joy
+That was an unexpected turn of events!,Positive,Surprise
+I am so frustrated with this!,Negative,Anger
+That was an unexpected turn of events!,Positive,Surprise
+Why does everything go wrong?,Negative,Anger
+I am so frustrated with this!,Negative,Anger
+Why is this so difficult?,Negative,Frustration
+Why does everything go wrong?,Negative,Anger
+This moment is so soothing.,Neutral,Calm
+"Wow, I didn't see that coming!",Positive,Surprise
+I am so frustrated with this!,Negative,Anger
+Why does everything go wrong?,Negative,Anger
+I feel unsafe.,Negative,Fear
+Nothing is going my way.,Negative,Frustration
+"Wow, I didn't see that coming!",Positive,Surprise
+I feel so lonely.,Negative,Sadness
+Everything is peaceful right now.,Neutral,Calm
+I just can't get this to work!,Negative,Frustration
+I feel very relaxed.,Neutral,Calm
+I feel very relaxed.,Neutral,Calm
+I am so frustrated with this!,Negative,Anger
+I feel so lonely.,Negative,Sadness
+Everything is peaceful right now.,Neutral,Calm
+What a beautiful day!,Positive,Joy
+I feel very relaxed.,Neutral,Calm
+Everything is peaceful right now.,Neutral,Calm
+This situation is making me anxious.,Negative,Fear
+Nothing is going my way.,Negative,Frustration
+What a beautiful day!,Positive,Joy
+I am really scared about the future.,Negative,Fear
+What a beautiful day!,Positive,Joy
+I am so frustrated with this!,Negative,Anger
+I am so frustrated with this!,Negative,Anger
+That was an unexpected turn of events!,Positive,Surprise
+I love spending time with my family!,Positive,Joy
+I just can't get this to work!,Negative,Frustration
+I feel so lonely.,Negative,Sadness
+I can't believe it!,Positive,Surprise
+I miss my best friend.,Negative,Sadness
+I feel unsafe.,Negative,Fear
+I miss my best friend.,Negative,Sadness
+I feel amazing today!,Positive,Joy
+I love spending time with my family!,Positive,Joy
+Everything is peaceful right now.,Neutral,Calm
+I am so frustrated with this!,Negative,Anger
+I am so frustrated with this!,Negative,Anger
+I am so frustrated with this!,Negative,Anger
+I just can't get this to work!,Negative,Frustration
+"Wow, I didn't see that coming!",Positive,Surprise
+I feel unsafe.,Negative,Fear
+I love spending time with my family!,Positive,Joy
+Why does everything go wrong?,Negative,Anger
+"Wow, I didn't see that coming!",Positive,Surprise
+Today was a really bad day.,Negative,Sadness
+What a beautiful day!,Positive,Joy
+I feel amazing today!,Positive,Joy
+This is so unfair!,Negative,Anger
+What a beautiful day!,Positive,Joy
+Nothing is going my way.,Negative,Frustration
+That was an unexpected turn of events!,Positive,Surprise
+I feel so lonely.,Negative,Sadness
+Why is this so difficult?,Negative,Frustration
+I just can't get this to work!,Negative,Frustration
+I can't believe it!,Positive,Surprise
+I love spending time with my family!,Positive,Joy
+Everything is peaceful right now.,Neutral,Calm
+Everything is peaceful right now.,Neutral,Calm
+I am so frustrated with this!,Negative,Anger
+I feel so lonely.,Negative,Sadness
+I am really scared about the future.,Negative,Fear
+I am so frustrated with this!,Negative,Anger
+This moment is so soothing.,Neutral,Calm
+I love spending time with my family!,Positive,Joy
+I miss my best friend.,Negative,Sadness
+Everything is peaceful right now.,Neutral,Calm
+Nothing is going my way.,Negative,Frustration
+I feel very relaxed.,Neutral,Calm
+I miss my best friend.,Negative,Sadness
+This situation is making me anxious.,Negative,Fear
+I am so frustrated with this!,Negative,Anger
+I just can't get this to work!,Negative,Frustration
+"Wow, I didn't see that coming!",Positive,Surprise
+This situation is making me anxious.,Negative,Fear
+I am really scared about the future.,Negative,Fear
+I can't believe it!,Positive,Surprise
+Nothing is going my way.,Negative,Frustration
+I just can't get this to work!,Negative,Frustration
+Nothing is going my way.,Negative,Frustration
+I feel very relaxed.,Neutral,Calm
+I feel unsafe.,Negative,Fear
+What a beautiful day!,Positive,Joy
+I feel very relaxed.,Neutral,Calm
+This situation is making me anxious.,Negative,Fear
+I am so frustrated with this!,Negative,Anger
+Why is this so difficult?,Negative,Frustration
+I feel very relaxed.,Neutral,Calm
+I feel unsafe.,Negative,Fear
+Why is this so difficult?,Negative,Frustration
+I feel amazing today!,Positive,Joy
+I just can't get this to work!,Negative,Frustration
+What a beautiful day!,Positive,Joy
+I feel so lonely.,Negative,Sadness
+I feel so lonely.,Negative,Sadness
+I just can't get this to work!,Negative,Frustration
+This is so unfair!,Negative,Anger
+This is so unfair!,Negative,Anger
+I feel amazing today!,Positive,Joy
+I can't believe it!,Positive,Surprise
+Everything is peaceful right now.,Neutral,Calm
+I can't believe it!,Positive,Surprise
+I am so frustrated with this!,Negative,Anger
+That was an unexpected turn of events!,Positive,Surprise
+Today was a really bad day.,Negative,Sadness
+I feel unsafe.,Negative,Fear
+I feel so lonely.,Negative,Sadness
+I am so frustrated with this!,Negative,Anger
+I feel very relaxed.,Neutral,Calm
+Why is this so difficult?,Negative,Frustration
+This moment is so soothing.,Neutral,Calm
+I feel amazing today!,Positive,Joy
+I miss my best friend.,Negative,Sadness
+I feel unsafe.,Negative,Fear
+I am really scared about the future.,Negative,Fear
+This is so unfair!,Negative,Anger
+"Wow, I didn't see that coming!",Positive,Surprise
+I just can't get this to work!,Negative,Frustration
+I feel amazing today!,Positive,Joy
+Why is this so difficult?,Negative,Frustration
+This situation is making me anxious.,Negative,Fear
+I feel amazing today!,Positive,Joy
+I am so frustrated with this!,Negative,Anger
+That was an unexpected turn of events!,Positive,Surprise
+I just can't get this to work!,Negative,Frustration
+I can't believe it!,Positive,Surprise
+I am so frustrated with this!,Negative,Anger
+Nothing is going my way.,Negative,Frustration
+I love spending time with my family!,Positive,Joy
+That was an unexpected turn of events!,Positive,Surprise
+This situation is making me anxious.,Negative,Fear
+Nothing is going my way.,Negative,Frustration
+Everything is peaceful right now.,Neutral,Calm
+I feel very relaxed.,Neutral,Calm
+Everything is peaceful right now.,Neutral,Calm
+What a beautiful day!,Positive,Joy
+Today was a really bad day.,Negative,Sadness
+Why does everything go wrong?,Negative,Anger
+Why is this so difficult?,Negative,Frustration
+Why does everything go wrong?,Negative,Anger
+What a beautiful day!,Positive,Joy
+This is so unfair!,Negative,Anger
+I miss my best friend.,Negative,Sadness
+I feel very relaxed.,Neutral,Calm
+I am so frustrated with this!,Negative,Anger
+I feel amazing today!,Positive,Joy
+I miss my best friend.,Negative,Sadness
+I feel so lonely.,Negative,Sadness
+Everything is peaceful right now.,Neutral,Calm
+I miss my best friend.,Negative,Sadness
+I feel unsafe.,Negative,Fear
+Why is this so difficult?,Negative,Frustration
+This situation is making me anxious.,Negative,Fear
+I love spending time with my family!,Positive,Joy
+What a beautiful day!,Positive,Joy
+This is so unfair!,Negative,Anger
+I am really scared about the future.,Negative,Fear
+Why is this so difficult?,Negative,Frustration
+Today was a really bad day.,Negative,Sadness
+Everything is peaceful right now.,Neutral,Calm
+That was an unexpected turn of events!,Positive,Surprise
+I miss my best friend.,Negative,Sadness
+I am really scared about the future.,Negative,Fear
+I can't believe it!,Positive,Surprise
+"Wow, I didn't see that coming!",Positive,Surprise
+I feel so lonely.,Negative,Sadness
+I am really scared about the future.,Negative,Fear
+I can't believe it!,Positive,Surprise
+I am really scared about the future.,Negative,Fear
+I can't believe it!,Positive,Surprise
+I feel very relaxed.,Neutral,Calm
+Everything is peaceful right now.,Neutral,Calm
+That was an unexpected turn of events!,Positive,Surprise
+I am so frustrated with this!,Negative,Anger
+I love spending time with my family!,Positive,Joy
+What a beautiful day!,Positive,Joy
+What a beautiful day!,Positive,Joy
+Today was a really bad day.,Negative,Sadness
+I love spending time with my family!,Positive,Joy
+This is so unfair!,Negative,Anger
+Why does everything go wrong?,Negative,Anger
+Everything is peaceful right now.,Neutral,Calm
+Why does everything go wrong?,Negative,Anger
+I can't believe it!,Positive,Surprise
+Why is this so difficult?,Negative,Frustration
+Why is this so difficult?,Negative,Frustration
+This is so unfair!,Negative,Anger
+This is so unfair!,Negative,Anger
+This situation is making me anxious.,Negative,Fear
+I feel amazing today!,Positive,Joy
+Today was a really bad day.,Negative,Sadness
+What a beautiful day!,Positive,Joy
+That was an unexpected turn of events!,Positive,Surprise
+Today was a really bad day.,Negative,Sadness
+"Wow, I didn't see that coming!",Positive,Surprise
+This is so unfair!,Negative,Anger
+Everything is peaceful right now.,Neutral,Calm
+I am really scared about the future.,Negative,Fear
+I am really scared about the future.,Negative,Fear
+Nothing is going my way.,Negative,Frustration
+"Wow, I didn't see that coming!",Positive,Surprise
+I feel very relaxed.,Neutral,Calm
+This situation is making me anxious.,Negative,Fear
+I can't believe it!,Positive,Surprise
+I am so frustrated with this!,Negative,Anger
+Why is this so difficult?,Negative,Frustration
+I am really scared about the future.,Negative,Fear
+I feel unsafe.,Negative,Fear
+This situation is making me anxious.,Negative,Fear
+Everything is peaceful right now.,Neutral,Calm
+I feel very relaxed.,Neutral,Calm
+This moment is so soothing.,Neutral,Calm
+Everything is peaceful right now.,Neutral,Calm
+I feel amazing today!,Positive,Joy
+Today was a really bad day.,Negative,Sadness
+This situation is making me anxious.,Negative,Fear
+This is so unfair!,Negative,Anger
+I feel unsafe.,Negative,Fear
+I feel so lonely.,Negative,Sadness
+I miss my best friend.,Negative,Sadness
+I just can't get this to work!,Negative,Frustration
+I feel amazing today!,Positive,Joy
+"Wow, I didn't see that coming!",Positive,Surprise
+"Wow, I didn't see that coming!",Positive,Surprise
+I can't believe it!,Positive,Surprise
+This situation is making me anxious.,Negative,Fear
+I can't believe it!,Positive,Surprise
+I just can't get this to work!,Negative,Frustration
+That was an unexpected turn of events!,Positive,Surprise
+I just can't get this to work!,Negative,Frustration
+I can't believe it!,Positive,Surprise
+I feel amazing today!,Positive,Joy
+This is so unfair!,Negative,Anger
+That was an unexpected turn of events!,Positive,Surprise
+I am so frustrated with this!,Negative,Anger
+I can't believe it!,Positive,Surprise
+That was an unexpected turn of events!,Positive,Surprise
+This is so unfair!,Negative,Anger
+I just can't get this to work!,Negative,Frustration
+I am really scared about the future.,Negative,Fear
+Today was a really bad day.,Negative,Sadness
+I feel so lonely.,Negative,Sadness
+Why is this so difficult?,Negative,Frustration
+"Wow, I didn't see that coming!",Positive,Surprise
+I am so frustrated with this!,Negative,Anger
+I feel unsafe.,Negative,Fear
+I feel unsafe.,Negative,Fear
+This is so unfair!,Negative,Anger
+I am so frustrated with this!,Negative,Anger
+I can't believe it!,Positive,Surprise
+That was an unexpected turn of events!,Positive,Surprise
+This moment is so soothing.,Neutral,Calm
+Today was a really bad day.,Negative,Sadness
+Why does everything go wrong?,Negative,Anger
+I am really scared about the future.,Negative,Fear
+I just can't get this to work!,Negative,Frustration
+I feel so lonely.,Negative,Sadness
+I feel unsafe.,Negative,Fear
+I am really scared about the future.,Negative,Fear
+I feel very relaxed.,Neutral,Calm
+I am really scared about the future.,Negative,Fear
+I am really scared about the future.,Negative,Fear
+I miss my best friend.,Negative,Sadness
+I feel unsafe.,Negative,Fear
+I just can't get this to work!,Negative,Frustration
+I feel very relaxed.,Neutral,Calm
+Today was a really bad day.,Negative,Sadness
+That was an unexpected turn of events!,Positive,Surprise
+I miss my best friend.,Negative,Sadness
+What a beautiful day!,Positive,Joy
+This situation is making me anxious.,Negative,Fear
+I am so frustrated with this!,Negative,Anger
+This is so unfair!,Negative,Anger
+I miss my best friend.,Negative,Sadness
+I feel very relaxed.,Neutral,Calm
+Why does everything go wrong?,Negative,Anger
+This is so unfair!,Negative,Anger
+I just can't get this to work!,Negative,Frustration
+Everything is peaceful right now.,Neutral,Calm
+Today was a really bad day.,Negative,Sadness
+Everything is peaceful right now.,Neutral,Calm
+Everything is peaceful right now.,Neutral,Calm
+"Wow, I didn't see that coming!",Positive,Surprise
+Why is this so difficult?,Negative,Frustration
+I feel so lonely.,Negative,Sadness
+Everything is peaceful right now.,Neutral,Calm
+That was an unexpected turn of events!,Positive,Surprise
+I feel so lonely.,Negative,Sadness
+"Wow, I didn't see that coming!",Positive,Surprise
+I feel amazing today!,Positive,Joy
+This situation is making me anxious.,Negative,Fear
+I feel very relaxed.,Neutral,Calm
+I feel amazing today!,Positive,Joy
+That was an unexpected turn of events!,Positive,Surprise
+I feel so lonely.,Negative,Sadness
+This situation is making me anxious.,Negative,Fear
+Today was a really bad day.,Negative,Sadness
+Everything is peaceful right now.,Neutral,Calm
+I feel unsafe.,Negative,Fear
+I am so frustrated with this!,Negative,Anger
+Why is this so difficult?,Negative,Frustration
+This moment is so soothing.,Neutral,Calm
+What a beautiful day!,Positive,Joy
+"Wow, I didn't see that coming!",Positive,Surprise
+Everything is peaceful right now.,Neutral,Calm
+I am so frustrated with this!,Negative,Anger
+I miss my best friend.,Negative,Sadness
+Nothing is going my way.,Negative,Frustration
+Why does everything go wrong?,Negative,Anger
+Everything is peaceful right now.,Neutral,Calm
+That was an unexpected turn of events!,Positive,Surprise
+This situation is making me anxious.,Negative,Fear
+I am really scared about the future.,Negative,Fear
+I feel unsafe.,Negative,Fear
+"Wow, I didn't see that coming!",Positive,Surprise
+This is so unfair!,Negative,Anger
+This moment is so soothing.,Neutral,Calm
+I miss my best friend.,Negative,Sadness
+I love spending time with my family!,Positive,Joy
+This is so unfair!,Negative,Anger
+I feel unsafe.,Negative,Fear
+I just can't get this to work!,Negative,Frustration
+I miss my best friend.,Negative,Sadness
+Nothing is going my way.,Negative,Frustration
+I feel so lonely.,Negative,Sadness
+This situation is making me anxious.,Negative,Fear
+That was an unexpected turn of events!,Positive,Surprise
+This moment is so soothing.,Neutral,Calm
+What a beautiful day!,Positive,Joy
+I am so frustrated with this!,Negative,Anger
+I love spending time with my family!,Positive,Joy
+"Wow, I didn't see that coming!",Positive,Surprise
+Why is this so difficult?,Negative,Frustration
+I am really scared about the future.,Negative,Fear
+I feel very relaxed.,Neutral,Calm
+Everything is peaceful right now.,Neutral,Calm
+I just can't get this to work!,Negative,Frustration
+I am really scared about the future.,Negative,Fear
+Why is this so difficult?,Negative,Frustration
+I feel very relaxed.,Neutral,Calm
+I am really scared about the future.,Negative,Fear
+I love spending time with my family!,Positive,Joy
+I feel amazing today!,Positive,Joy
+I can't believe it!,Positive,Surprise
+I miss my best friend.,Negative,Sadness
+I love spending time with my family!,Positive,Joy
+I feel unsafe.,Negative,Fear
+I just can't get this to work!,Negative,Frustration
+This is so unfair!,Negative,Anger
+I feel very relaxed.,Neutral,Calm
+"Wow, I didn't see that coming!",Positive,Surprise
+Why does everything go wrong?,Negative,Anger
+I miss my best friend.,Negative,Sadness
+Why does everything go wrong?,Negative,Anger
+I just can't get this to work!,Negative,Frustration
+"Wow, I didn't see that coming!",Positive,Surprise
+I feel amazing today!,Positive,Joy
+This moment is so soothing.,Neutral,Calm
+I feel unsafe.,Negative,Fear
+Everything is peaceful right now.,Neutral,Calm
+I love spending time with my family!,Positive,Joy
+Today was a really bad day.,Negative,Sadness
+Today was a really bad day.,Negative,Sadness
+This situation is making me anxious.,Negative,Fear
+I am so frustrated with this!,Negative,Anger
+That was an unexpected turn of events!,Positive,Surprise
+I miss my best friend.,Negative,Sadness
+This moment is so soothing.,Neutral,Calm
+I just can't get this to work!,Negative,Frustration
+Today was a really bad day.,Negative,Sadness
+I am really scared about the future.,Negative,Fear
+This moment is so soothing.,Neutral,Calm
+I can't believe it!,Positive,Surprise
+I feel very relaxed.,Neutral,Calm
+I love spending time with my family!,Positive,Joy
+I feel so lonely.,Negative,Sadness
+This moment is so soothing.,Neutral,Calm
+What a beautiful day!,Positive,Joy
+Everything is peaceful right now.,Neutral,Calm
+I am so frustrated with this!,Negative,Anger
+I feel so lonely.,Negative,Sadness
+Why is this so difficult?,Negative,Frustration
+This situation is making me anxious.,Negative,Fear
+This moment is so soothing.,Neutral,Calm
+Why is this so difficult?,Negative,Frustration
+This is so unfair!,Negative,Anger
+I can't believe it!,Positive,Surprise
+That was an unexpected turn of events!,Positive,Surprise
+I feel amazing today!,Positive,Joy
+This is so unfair!,Negative,Anger
+Why is this so difficult?,Negative,Frustration
+I feel unsafe.,Negative,Fear
+Nothing is going my way.,Negative,Frustration
+This situation is making me anxious.,Negative,Fear
+I love spending time with my family!,Positive,Joy
+I love spending time with my family!,Positive,Joy
+This is so unfair!,Negative,Anger
+Why is this so difficult?,Negative,Frustration
+I feel very relaxed.,Neutral,Calm
+I feel amazing today!,Positive,Joy
+Today was a really bad day.,Negative,Sadness
+I feel so lonely.,Negative,Sadness
+I miss my best friend.,Negative,Sadness
+I am really scared about the future.,Negative,Fear
+I am really scared about the future.,Negative,Fear
+I love spending time with my family!,Positive,Joy
+What a beautiful day!,Positive,Joy
+I miss my best friend.,Negative,Sadness
+This is so unfair!,Negative,Anger
+I feel unsafe.,Negative,Fear
+I can't believe it!,Positive,Surprise
+I feel very relaxed.,Neutral,Calm
+I love spending time with my family!,Positive,Joy
+I feel very relaxed.,Neutral,Calm
+I just can't get this to work!,Negative,Frustration
+I miss my best friend.,Negative,Sadness
+I am so frustrated with this!,Negative,Anger
+This is so unfair!,Negative,Anger
+Nothing is going my way.,Negative,Frustration
+Today was a really bad day.,Negative,Sadness
+I miss my best friend.,Negative,Sadness
+I love spending time with my family!,Positive,Joy
+I am so frustrated with this!,Negative,Anger
+Nothing is going my way.,Negative,Frustration
+This moment is so soothing.,Neutral,Calm
+Today was a really bad day.,Negative,Sadness
+I feel amazing today!,Positive,Joy
+I feel unsafe.,Negative,Fear
+I just can't get this to work!,Negative,Frustration
+This is so unfair!,Negative,Anger
+That was an unexpected turn of events!,Positive,Surprise
+Why is this so difficult?,Negative,Frustration
+This is so unfair!,Negative,Anger
+I can't believe it!,Positive,Surprise
+Why is this so difficult?,Negative,Frustration
+That was an unexpected turn of events!,Positive,Surprise
+I can't believe it!,Positive,Surprise
+I am really scared about the future.,Negative,Fear
+I miss my best friend.,Negative,Sadness
+I feel unsafe.,Negative,Fear
+I feel unsafe.,Negative,Fear
+I miss my best friend.,Negative,Sadness
+This moment is so soothing.,Neutral,Calm
+Why is this so difficult?,Negative,Frustration
+This moment is so soothing.,Neutral,Calm
+I love spending time with my family!,Positive,Joy
+I am really scared about the future.,Negative,Fear
+I miss my best friend.,Negative,Sadness
+I miss my best friend.,Negative,Sadness
+Nothing is going my way.,Negative,Frustration
+Nothing is going my way.,Negative,Frustration
+That was an unexpected turn of events!,Positive,Surprise
+I feel amazing today!,Positive,Joy
+This is so unfair!,Negative,Anger
+This moment is so soothing.,Neutral,Calm
+I feel amazing today!,Positive,Joy
+I love spending time with my family!,Positive,Joy
+I feel so lonely.,Negative,Sadness
+Nothing is going my way.,Negative,Frustration
+This is so unfair!,Negative,Anger
+I feel unsafe.,Negative,Fear
+I feel unsafe.,Negative,Fear
+I feel amazing today!,Positive,Joy
+Why does everything go wrong?,Negative,Anger
+I just can't get this to work!,Negative,Frustration
+Everything is peaceful right now.,Neutral,Calm
+That was an unexpected turn of events!,Positive,Surprise
+That was an unexpected turn of events!,Positive,Surprise
+I love spending time with my family!,Positive,Joy
+I can't believe it!,Positive,Surprise
+I feel so lonely.,Negative,Sadness
+This situation is making me anxious.,Negative,Fear
+I feel unsafe.,Negative,Fear
+I love spending time with my family!,Positive,Joy
+I feel unsafe.,Negative,Fear
+Nothing is going my way.,Negative,Frustration
+That was an unexpected turn of events!,Positive,Surprise
+I just can't get this to work!,Negative,Frustration
+This moment is so soothing.,Neutral,Calm
+Today was a really bad day.,Negative,Sadness
+Why is this so difficult?,Negative,Frustration
+What a beautiful day!,Positive,Joy
+Why is this so difficult?,Negative,Frustration
+I can't believe it!,Positive,Surprise
+What a beautiful day!,Positive,Joy
+I feel so lonely.,Negative,Sadness
+I love spending time with my family!,Positive,Joy
+This moment is so soothing.,Neutral,Calm
+I can't believe it!,Positive,Surprise
+That was an unexpected turn of events!,Positive,Surprise
+Why does everything go wrong?,Negative,Anger
+I miss my best friend.,Negative,Sadness
+I feel unsafe.,Negative,Fear
+I can't believe it!,Positive,Surprise
+I love spending time with my family!,Positive,Joy
+I feel so lonely.,Negative,Sadness
+I love spending time with my family!,Positive,Joy
+Today was a really bad day.,Negative,Sadness
+This situation is making me anxious.,Negative,Fear
+I feel unsafe.,Negative,Fear
+Today was a really bad day.,Negative,Sadness
+Today was a really bad day.,Negative,Sadness
+I feel so lonely.,Negative,Sadness
+Today was a really bad day.,Negative,Sadness
+Why is this so difficult?,Negative,Frustration
+Today was a really bad day.,Negative,Sadness
+Nothing is going my way.,Negative,Frustration
+Why is this so difficult?,Negative,Frustration
+What a beautiful day!,Positive,Joy
+I just can't get this to work!,Negative,Frustration
+I feel very relaxed.,Neutral,Calm
+Nothing is going my way.,Negative,Frustration
+I feel amazing today!,Positive,Joy
+What a beautiful day!,Positive,Joy
+This situation is making me anxious.,Negative,Fear
+I feel unsafe.,Negative,Fear
+I miss my best friend.,Negative,Sadness
+I am so frustrated with this!,Negative,Anger
+This is so unfair!,Negative,Anger
+I just can't get this to work!,Negative,Frustration
+Nothing is going my way.,Negative,Frustration
+I am really scared about the future.,Negative,Fear
+Everything is peaceful right now.,Neutral,Calm
+Today was a really bad day.,Negative,Sadness
+"Wow, I didn't see that coming!",Positive,Surprise
+I am so frustrated with this!,Negative,Anger
+Why is this so difficult?,Negative,Frustration
+I feel very relaxed.,Neutral,Calm
+I miss my best friend.,Negative,Sadness
+Why does everything go wrong?,Negative,Anger
+I feel so lonely.,Negative,Sadness
+I feel very relaxed.,Neutral,Calm
+Why is this so difficult?,Negative,Frustration
+I am really scared about the future.,Negative,Fear
+I miss my best friend.,Negative,Sadness
+Everything is peaceful right now.,Neutral,Calm
+I love spending time with my family!,Positive,Joy
+This is so unfair!,Negative,Anger
+I love spending time with my family!,Positive,Joy
+I feel so lonely.,Negative,Sadness
+I can't believe it!,Positive,Surprise
+I just can't get this to work!,Negative,Frustration
+Everything is peaceful right now.,Neutral,Calm
+This moment is so soothing.,Neutral,Calm
+I feel so lonely.,Negative,Sadness
+I am really scared about the future.,Negative,Fear
+Today was a really bad day.,Negative,Sadness
+I feel amazing today!,Positive,Joy
+I am really scared about the future.,Negative,Fear
+I am really scared about the future.,Negative,Fear
+Nothing is going my way.,Negative,Frustration
+This is so unfair!,Negative,Anger
+What a beautiful day!,Positive,Joy
+I miss my best friend.,Negative,Sadness
+Why is this so difficult?,Negative,Frustration
+"Wow, I didn't see that coming!",Positive,Surprise
+This moment is so soothing.,Neutral,Calm
+Nothing is going my way.,Negative,Frustration
+Everything is peaceful right now.,Neutral,Calm
+That was an unexpected turn of events!,Positive,Surprise
+Why is this so difficult?,Negative,Frustration
+Why is this so difficult?,Negative,Frustration
+I can't believe it!,Positive,Surprise
+What a beautiful day!,Positive,Joy
+I can't believe it!,Positive,Surprise
+What a beautiful day!,Positive,Joy
+I can't believe it!,Positive,Surprise
+This is so unfair!,Negative,Anger
+I just can't get this to work!,Negative,Frustration
+Everything is peaceful right now.,Neutral,Calm
+That was an unexpected turn of events!,Positive,Surprise
+What a beautiful day!,Positive,Joy
+What a beautiful day!,Positive,Joy
+That was an unexpected turn of events!,Positive,Surprise
+I miss my best friend.,Negative,Sadness
+I feel unsafe.,Negative,Fear
+This moment is so soothing.,Neutral,Calm
+Everything is peaceful right now.,Neutral,Calm
+"Wow, I didn't see that coming!",Positive,Surprise
+Why does everything go wrong?,Negative,Anger
+This moment is so soothing.,Neutral,Calm
+Why does everything go wrong?,Negative,Anger
+I am so frustrated with this!,Negative,Anger
+What a beautiful day!,Positive,Joy
+I can't believe it!,Positive,Surprise
+Everything is peaceful right now.,Neutral,Calm
+This is so unfair!,Negative,Anger
+Why is this so difficult?,Negative,Frustration
+This moment is so soothing.,Neutral,Calm
+I miss my best friend.,Negative,Sadness
+Today was a really bad day.,Negative,Sadness
+I am so frustrated with this!,Negative,Anger
+I feel unsafe.,Negative,Fear
+I am really scared about the future.,Negative,Fear
+I am really scared about the future.,Negative,Fear
+What a beautiful day!,Positive,Joy
+"Wow, I didn't see that coming!",Positive,Surprise
+I feel very relaxed.,Neutral,Calm
+I am so frustrated with this!,Negative,Anger
+I love spending time with my family!,Positive,Joy
+This moment is so soothing.,Neutral,Calm
+I am so frustrated with this!,Negative,Anger
+I just can't get this to work!,Negative,Frustration
+I am so frustrated with this!,Negative,Anger
+"Wow, I didn't see that coming!",Positive,Surprise
+Why does everything go wrong?,Negative,Anger
+That was an unexpected turn of events!,Positive,Surprise
+I miss my best friend.,Negative,Sadness
+I just can't get this to work!,Negative,Frustration
+Why is this so difficult?,Negative,Frustration
+This moment is so soothing.,Neutral,Calm
+This is so unfair!,Negative,Anger
+Nothing is going my way.,Negative,Frustration
+I feel so lonely.,Negative,Sadness
+I feel so lonely.,Negative,Sadness
+I feel amazing today!,Positive,Joy
+I love spending time with my family!,Positive,Joy
+Why does everything go wrong?,Negative,Anger
+I feel very relaxed.,Neutral,Calm
+This situation is making me anxious.,Negative,Fear
+I can't believe it!,Positive,Surprise
+Today was a really bad day.,Negative,Sadness
+I feel so lonely.,Negative,Sadness
+Why is this so difficult?,Negative,Frustration
+I love spending time with my family!,Positive,Joy
+"Wow, I didn't see that coming!",Positive,Surprise
+I love spending time with my family!,Positive,Joy
+I feel very relaxed.,Neutral,Calm
+Nothing is going my way.,Negative,Frustration
+Why is this so difficult?,Negative,Frustration
+That was an unexpected turn of events!,Positive,Surprise
+I am so frustrated with this!,Negative,Anger
+Why is this so difficult?,Negative,Frustration
+Today was a really bad day.,Negative,Sadness
+I love spending time with my family!,Positive,Joy
+This situation is making me anxious.,Negative,Fear
+I feel so lonely.,Negative,Sadness
+I feel amazing today!,Positive,Joy
+"Wow, I didn't see that coming!",Positive,Surprise
+Nothing is going my way.,Negative,Frustration
+"Wow, I didn't see that coming!",Positive,Surprise
+I just can't get this to work!,Negative,Frustration
+I just can't get this to work!,Negative,Frustration
+I feel very relaxed.,Neutral,Calm
+I can't believe it!,Positive,Surprise
+I miss my best friend.,Negative,Sadness
+I can't believe it!,Positive,Surprise
+This moment is so soothing.,Neutral,Calm
+Why is this so difficult?,Negative,Frustration
+I am really scared about the future.,Negative,Fear
+I feel so lonely.,Negative,Sadness
+I feel unsafe.,Negative,Fear
+Everything is peaceful right now.,Neutral,Calm
+I feel unsafe.,Negative,Fear
+Why does everything go wrong?,Negative,Anger
+I feel amazing today!,Positive,Joy
+Why is this so difficult?,Negative,Frustration
+"Wow, I didn't see that coming!",Positive,Surprise
+This situation is making me anxious.,Negative,Fear
+I love spending time with my family!,Positive,Joy
+I am really scared about the future.,Negative,Fear
+That was an unexpected turn of events!,Positive,Surprise
+I love spending time with my family!,Positive,Joy
+Why is this so difficult?,Negative,Frustration
+That was an unexpected turn of events!,Positive,Surprise
+"Wow, I didn't see that coming!",Positive,Surprise
+What a beautiful day!,Positive,Joy
+Nothing is going my way.,Negative,Frustration
+That was an unexpected turn of events!,Positive,Surprise
+Why is this so difficult?,Negative,Frustration
+Everything is peaceful right now.,Neutral,Calm
+Why does everything go wrong?,Negative,Anger
+That was an unexpected turn of events!,Positive,Surprise
+I miss my best friend.,Negative,Sadness
+I love spending time with my family!,Positive,Joy
+I feel very relaxed.,Neutral,Calm
+Everything is peaceful right now.,Neutral,Calm
+I miss my best friend.,Negative,Sadness
+I can't believe it!,Positive,Surprise
+This moment is so soothing.,Neutral,Calm
+I just can't get this to work!,Negative,Frustration
+I am really scared about the future.,Negative,Fear
+Today was a really bad day.,Negative,Sadness
+Everything is peaceful right now.,Neutral,Calm
+I feel very relaxed.,Neutral,Calm
+That was an unexpected turn of events!,Positive,Surprise
+I feel very relaxed.,Neutral,Calm
+Today was a really bad day.,Negative,Sadness
+"Wow, I didn't see that coming!",Positive,Surprise
+This moment is so soothing.,Neutral,Calm
+I am so frustrated with this!,Negative,Anger
+That was an unexpected turn of events!,Positive,Surprise
+I love spending time with my family!,Positive,Joy
+"Wow, I didn't see that coming!",Positive,Surprise
+I feel amazing today!,Positive,Joy
+Nothing is going my way.,Negative,Frustration
+Why does everything go wrong?,Negative,Anger
+"Wow, I didn't see that coming!",Positive,Surprise
+Everything is peaceful right now.,Neutral,Calm
+I miss my best friend.,Negative,Sadness
+That was an unexpected turn of events!,Positive,Surprise
+This moment is so soothing.,Neutral,Calm
+Why does everything go wrong?,Negative,Anger
+I just can't get this to work!,Negative,Frustration
+I am so frustrated with this!,Negative,Anger
+Today was a really bad day.,Negative,Sadness
+I miss my best friend.,Negative,Sadness
+I feel so lonely.,Negative,Sadness
+I feel unsafe.,Negative,Fear
+I feel so lonely.,Negative,Sadness
+I am really scared about the future.,Negative,Fear
+Why is this so difficult?,Negative,Frustration
+What a beautiful day!,Positive,Joy
+I love spending time with my family!,Positive,Joy
+Today was a really bad day.,Negative,Sadness
+This is so unfair!,Negative,Anger
+Today was a really bad day.,Negative,Sadness
+I love spending time with my family!,Positive,Joy
+Why is this so difficult?,Negative,Frustration
+I just can't get this to work!,Negative,Frustration
+This moment is so soothing.,Neutral,Calm
+I can't believe it!,Positive,Surprise
+I miss my best friend.,Negative,Sadness
+That was an unexpected turn of events!,Positive,Surprise
+What a beautiful day!,Positive,Joy
+I can't believe it!,Positive,Surprise
+Everything is peaceful right now.,Neutral,Calm
+"Wow, I didn't see that coming!",Positive,Surprise
+Nothing is going my way.,Negative,Frustration
+This moment is so soothing.,Neutral,Calm
+This is so unfair!,Negative,Anger
+"Wow, I didn't see that coming!",Positive,Surprise
+This moment is so soothing.,Neutral,Calm
+Today was a really bad day.,Negative,Sadness
+Why is this so difficult?,Negative,Frustration
+I just can't get this to work!,Negative,Frustration
+I am really scared about the future.,Negative,Fear
+I am so frustrated with this!,Negative,Anger
+I feel so lonely.,Negative,Sadness
+I feel amazing today!,Positive,Joy
+I feel very relaxed.,Neutral,Calm
+This is so unfair!,Negative,Anger
+I love spending time with my family!,Positive,Joy
+I am so frustrated with this!,Negative,Anger
+"Wow, I didn't see that coming!",Positive,Surprise
+I feel so lonely.,Negative,Sadness
+I miss my best friend.,Negative,Sadness
+"Wow, I didn't see that coming!",Positive,Surprise
+I just can't get this to work!,Negative,Frustration
+That was an unexpected turn of events!,Positive,Surprise
+I feel so lonely.,Negative,Sadness
+What a beautiful day!,Positive,Joy
+I feel so lonely.,Negative,Sadness
+Today was a really bad day.,Negative,Sadness
+Nothing is going my way.,Negative,Frustration
+I just can't get this to work!,Negative,Frustration
+I can't believe it!,Positive,Surprise
+Today was a really bad day.,Negative,Sadness
+Today was a really bad day.,Negative,Sadness
+I can't believe it!,Positive,Surprise
+I am so frustrated with this!,Negative,Anger
+This moment is so soothing.,Neutral,Calm
+Everything is peaceful right now.,Neutral,Calm
+Today was a really bad day.,Negative,Sadness
+Nothing is going my way.,Negative,Frustration
+I am really scared about the future.,Negative,Fear
+Everything is peaceful right now.,Neutral,Calm
+I feel so lonely.,Negative,Sadness
+I can't believe it!,Positive,Surprise
+I feel so lonely.,Negative,Sadness
+That was an unexpected turn of events!,Positive,Surprise
+I love spending time with my family!,Positive,Joy
+This is so unfair!,Negative,Anger
+I feel very relaxed.,Neutral,Calm
+What a beautiful day!,Positive,Joy
+"Wow, I didn't see that coming!",Positive,Surprise
+What a beautiful day!,Positive,Joy
+Why does everything go wrong?,Negative,Anger
+I miss my best friend.,Negative,Sadness
+I am really scared about the future.,Negative,Fear
+What a beautiful day!,Positive,Joy
+I feel very relaxed.,Neutral,Calm
+Nothing is going my way.,Negative,Frustration
+I feel very relaxed.,Neutral,Calm
+Nothing is going my way.,Negative,Frustration
+What a beautiful day!,Positive,Joy
+"Wow, I didn't see that coming!",Positive,Surprise
+Why does everything go wrong?,Negative,Anger
+"Wow, I didn't see that coming!",Positive,Surprise
+This moment is so soothing.,Neutral,Calm
+This situation is making me anxious.,Negative,Fear
+That was an unexpected turn of events!,Positive,Surprise
+This moment is so soothing.,Neutral,Calm
+That was an unexpected turn of events!,Positive,Surprise
+Why does everything go wrong?,Negative,Anger
+I am really scared about the future.,Negative,Fear
+I love spending time with my family!,Positive,Joy
+This moment is so soothing.,Neutral,Calm
+I just can't get this to work!,Negative,Frustration
+I am so frustrated with this!,Negative,Anger
+What a beautiful day!,Positive,Joy
+I just can't get this to work!,Negative,Frustration
+What a beautiful day!,Positive,Joy
+Why does everything go wrong?,Negative,Anger
+I am really scared about the future.,Negative,Fear
+Everything is peaceful right now.,Neutral,Calm
+I am so frustrated with this!,Negative,Anger
+"Wow, I didn't see that coming!",Positive,Surprise
+Today was a really bad day.,Negative,Sadness
+That was an unexpected turn of events!,Positive,Surprise
+I feel unsafe.,Negative,Fear
+Why does everything go wrong?,Negative,Anger
+Why does everything go wrong?,Negative,Anger
+"Wow, I didn't see that coming!",Positive,Surprise
+Everything is peaceful right now.,Neutral,Calm
+I feel amazing today!,Positive,Joy
+I am really scared about the future.,Negative,Fear
+I love spending time with my family!,Positive,Joy
+I feel so lonely.,Negative,Sadness
+Nothing is going my way.,Negative,Frustration
+I am so frustrated with this!,Negative,Anger
+I can't believe it!,Positive,Surprise
+I am really scared about the future.,Negative,Fear
+Today was a really bad day.,Negative,Sadness
+This situation is making me anxious.,Negative,Fear
+I am so frustrated with this!,Negative,Anger
+I feel amazing today!,Positive,Joy
+I am really scared about the future.,Negative,Fear
+I can't believe it!,Positive,Surprise
+I can't believe it!,Positive,Surprise
+I can't believe it!,Positive,Surprise
+I feel unsafe.,Negative,Fear
+This moment is so soothing.,Neutral,Calm
+That was an unexpected turn of events!,Positive,Surprise
+I just can't get this to work!,Negative,Frustration
+I miss my best friend.,Negative,Sadness
+I feel very relaxed.,Neutral,Calm
+Today was a really bad day.,Negative,Sadness
+Why is this so difficult?,Negative,Frustration
+I feel unsafe.,Negative,Fear
+This is so unfair!,Negative,Anger
+I love spending time with my family!,Positive,Joy
+That was an unexpected turn of events!,Positive,Surprise
+That was an unexpected turn of events!,Positive,Surprise
+What a beautiful day!,Positive,Joy
+I am really scared about the future.,Negative,Fear
+I am so frustrated with this!,Negative,Anger
+What a beautiful day!,Positive,Joy
+I feel amazing today!,Positive,Joy
+Why is this so difficult?,Negative,Frustration
+This situation is making me anxious.,Negative,Fear
+Everything is peaceful right now.,Neutral,Calm
+I can't believe it!,Positive,Surprise
+I am so frustrated with this!,Negative,Anger
+Why is this so difficult?,Negative,Frustration
+I love spending time with my family!,Positive,Joy
+I miss my best friend.,Negative,Sadness
+I miss my best friend.,Negative,Sadness
+"Wow, I didn't see that coming!",Positive,Surprise
+This is so unfair!,Negative,Anger
+Everything is peaceful right now.,Neutral,Calm
+Why does everything go wrong?,Negative,Anger
+Nothing is going my way.,Negative,Frustration
+Everything is peaceful right now.,Neutral,Calm
+I feel very relaxed.,Neutral,Calm
+Everything is peaceful right now.,Neutral,Calm
+This situation is making me anxious.,Negative,Fear
+"Wow, I didn't see that coming!",Positive,Surprise
+I miss my best friend.,Negative,Sadness
+I feel unsafe.,Negative,Fear
+This moment is so soothing.,Neutral,Calm
+I feel amazing today!,Positive,Joy
+Today was a really bad day.,Negative,Sadness
+I just can't get this to work!,Negative,Frustration
+Why does everything go wrong?,Negative,Anger
+What a beautiful day!,Positive,Joy
+What a beautiful day!,Positive,Joy
+What a beautiful day!,Positive,Joy
+Nothing is going my way.,Negative,Frustration
+Why is this so difficult?,Negative,Frustration
+This moment is so soothing.,Neutral,Calm
+I miss my best friend.,Negative,Sadness
+This moment is so soothing.,Neutral,Calm
+That was an unexpected turn of events!,Positive,Surprise
+I am really scared about the future.,Negative,Fear
+I miss my best friend.,Negative,Sadness
+I am so frustrated with this!,Negative,Anger
+"Wow, I didn't see that coming!",Positive,Surprise
+I feel very relaxed.,Neutral,Calm
+I am so frustrated with this!,Negative,Anger
+I love spending time with my family!,Positive,Joy
+This is so unfair!,Negative,Anger
+Today was a really bad day.,Negative,Sadness
+I feel so lonely.,Negative,Sadness
+I love spending time with my family!,Positive,Joy
+I am so frustrated with this!,Negative,Anger
+This moment is so soothing.,Neutral,Calm
+I love spending time with my family!,Positive,Joy
+Today was a really bad day.,Negative,Sadness
+I can't believe it!,Positive,Surprise
+Why does everything go wrong?,Negative,Anger
+This situation is making me anxious.,Negative,Fear
+Why does everything go wrong?,Negative,Anger
+I love spending time with my family!,Positive,Joy
+Why is this so difficult?,Negative,Frustration
+That was an unexpected turn of events!,Positive,Surprise
+I feel so lonely.,Negative,Sadness
+I am so frustrated with this!,Negative,Anger
+I miss my best friend.,Negative,Sadness
+That was an unexpected turn of events!,Positive,Surprise
+"Wow, I didn't see that coming!",Positive,Surprise
+Why does everything go wrong?,Negative,Anger
+That was an unexpected turn of events!,Positive,Surprise
+This is so unfair!,Negative,Anger
+I am really scared about the future.,Negative,Fear
+I feel very relaxed.,Neutral,Calm
+I miss my best friend.,Negative,Sadness
+Nothing is going my way.,Negative,Frustration
+This is so unfair!,Negative,Anger
+What a beautiful day!,Positive,Joy
+I am really scared about the future.,Negative,Fear
+What a beautiful day!,Positive,Joy
+This is so unfair!,Negative,Anger
+Why does everything go wrong?,Negative,Anger
+This is so unfair!,Negative,Anger
+I am so frustrated with this!,Negative,Anger
+I miss my best friend.,Negative,Sadness
+I am so frustrated with this!,Negative,Anger
+Today was a really bad day.,Negative,Sadness
+That was an unexpected turn of events!,Positive,Surprise
+That was an unexpected turn of events!,Positive,Surprise
+I just can't get this to work!,Negative,Frustration
+This is so unfair!,Negative,Anger
+I feel very relaxed.,Neutral,Calm
+Today was a really bad day.,Negative,Sadness
+This moment is so soothing.,Neutral,Calm
+I am really scared about the future.,Negative,Fear
+Everything is peaceful right now.,Neutral,Calm
+Everything is peaceful right now.,Neutral,Calm
+I can't believe it!,Positive,Surprise
+That was an unexpected turn of events!,Positive,Surprise
+I am really scared about the future.,Negative,Fear
+That was an unexpected turn of events!,Positive,Surprise
+Why is this so difficult?,Negative,Frustration
+I feel unsafe.,Negative,Fear
+I just can't get this to work!,Negative,Frustration
+I feel amazing today!,Positive,Joy
+That was an unexpected turn of events!,Positive,Surprise
+This moment is so soothing.,Neutral,Calm
+Why is this so difficult?,Negative,Frustration
+Everything is peaceful right now.,Neutral,Calm
+This situation is making me anxious.,Negative,Fear
+"Wow, I didn't see that coming!",Positive,Surprise
+I can't believe it!,Positive,Surprise
+Everything is peaceful right now.,Neutral,Calm
+What a beautiful day!,Positive,Joy
+This moment is so soothing.,Neutral,Calm
+I just can't get this to work!,Negative,Frustration
+I feel amazing today!,Positive,Joy
+This moment is so soothing.,Neutral,Calm
+Why is this so difficult?,Negative,Frustration
+I feel very relaxed.,Neutral,Calm
+I am really scared about the future.,Negative,Fear
+I love spending time with my family!,Positive,Joy
+I am really scared about the future.,Negative,Fear
+I feel very relaxed.,Neutral,Calm
+I am so frustrated with this!,Negative,Anger
+Everything is peaceful right now.,Neutral,Calm
+I am really scared about the future.,Negative,Fear
+Why is this so difficult?,Negative,Frustration
+Why does everything go wrong?,Negative,Anger
+I am really scared about the future.,Negative,Fear
+I just can't get this to work!,Negative,Frustration
+This situation is making me anxious.,Negative,Fear
+Why is this so difficult?,Negative,Frustration
+Why is this so difficult?,Negative,Frustration
+That was an unexpected turn of events!,Positive,Surprise
+This moment is so soothing.,Neutral,Calm
+What a beautiful day!,Positive,Joy
+Why does everything go wrong?,Negative,Anger
+"Wow, I didn't see that coming!",Positive,Surprise
+I can't believe it!,Positive,Surprise
+I just can't get this to work!,Negative,Frustration
+I am so frustrated with this!,Negative,Anger
+I can't believe it!,Positive,Surprise
+This situation is making me anxious.,Negative,Fear
+Nothing is going my way.,Negative,Frustration
+This situation is making me anxious.,Negative,Fear
+I am really scared about the future.,Negative,Fear
+I feel very relaxed.,Neutral,Calm
+What a beautiful day!,Positive,Joy
+I miss my best friend.,Negative,Sadness
+I miss my best friend.,Negative,Sadness
+I feel very relaxed.,Neutral,Calm
+Why does everything go wrong?,Negative,Anger
+Today was a really bad day.,Negative,Sadness
+I am really scared about the future.,Negative,Fear
+Everything is peaceful right now.,Neutral,Calm
+I just can't get this to work!,Negative,Frustration
+I can't believe it!,Positive,Surprise
+I just can't get this to work!,Negative,Frustration
+What a beautiful day!,Positive,Joy
+I feel unsafe.,Negative,Fear
+"Wow, I didn't see that coming!",Positive,Surprise
+I feel very relaxed.,Neutral,Calm
+Today was a really bad day.,Negative,Sadness
+Everything is peaceful right now.,Neutral,Calm
+This situation is making me anxious.,Negative,Fear
+That was an unexpected turn of events!,Positive,Surprise
+I feel very relaxed.,Neutral,Calm
+Nothing is going my way.,Negative,Frustration
+I am really scared about the future.,Negative,Fear
+I am so frustrated with this!,Negative,Anger
+I feel unsafe.,Negative,Fear
+Everything is peaceful right now.,Neutral,Calm
+I feel very relaxed.,Neutral,Calm
+This moment is so soothing.,Neutral,Calm
+This moment is so soothing.,Neutral,Calm
+I love spending time with my family!,Positive,Joy
+"Wow, I didn't see that coming!",Positive,Surprise
+I miss my best friend.,Negative,Sadness
+Everything is peaceful right now.,Neutral,Calm
+What a beautiful day!,Positive,Joy
+I feel very relaxed.,Neutral,Calm
+Everything is peaceful right now.,Neutral,Calm
+I can't believe it!,Positive,Surprise
+I feel amazing today!,Positive,Joy
+I love spending time with my family!,Positive,Joy
+I am so frustrated with this!,Negative,Anger
+I love spending time with my family!,Positive,Joy
+I just can't get this to work!,Negative,Frustration
+Nothing is going my way.,Negative,Frustration
+This situation is making me anxious.,Negative,Fear
+I feel very relaxed.,Neutral,Calm
+I am really scared about the future.,Negative,Fear
+I feel amazing today!,Positive,Joy
+This moment is so soothing.,Neutral,Calm
+I feel unsafe.,Negative,Fear
+This is so unfair!,Negative,Anger
+I feel unsafe.,Negative,Fear
+Today was a really bad day.,Negative,Sadness
+That was an unexpected turn of events!,Positive,Surprise
+This situation is making me anxious.,Negative,Fear
+Why does everything go wrong?,Negative,Anger
+I feel so lonely.,Negative,Sadness
+I feel unsafe.,Negative,Fear
+I miss my best friend.,Negative,Sadness
+I love spending time with my family!,Positive,Joy
+I can't believe it!,Positive,Surprise
+I can't believe it!,Positive,Surprise
+Everything is peaceful right now.,Neutral,Calm
+Everything is peaceful right now.,Neutral,Calm
+I just can't get this to work!,Negative,Frustration
+I feel very relaxed.,Neutral,Calm
+Today was a really bad day.,Negative,Sadness
+I am really scared about the future.,Negative,Fear
+I feel very relaxed.,Neutral,Calm
+That was an unexpected turn of events!,Positive,Surprise
+Why is this so difficult?,Negative,Frustration
+Nothing is going my way.,Negative,Frustration
+I miss my best friend.,Negative,Sadness
+I just can't get this to work!,Negative,Frustration
+That was an unexpected turn of events!,Positive,Surprise
+"Wow, I didn't see that coming!",Positive,Surprise
+Everything is peaceful right now.,Neutral,Calm
+I feel very relaxed.,Neutral,Calm
+This moment is so soothing.,Neutral,Calm
+Everything is peaceful right now.,Neutral,Calm
+I feel unsafe.,Negative,Fear
+What a beautiful day!,Positive,Joy
+Why does everything go wrong?,Negative,Anger
+That was an unexpected turn of events!,Positive,Surprise
+This is so unfair!,Negative,Anger
+This is so unfair!,Negative,Anger
+I love spending time with my family!,Positive,Joy
+I just can't get this to work!,Negative,Frustration
+I feel unsafe.,Negative,Fear
+That was an unexpected turn of events!,Positive,Surprise
+I am really scared about the future.,Negative,Fear
+I am so frustrated with this!,Negative,Anger
+This moment is so soothing.,Neutral,Calm
+Why is this so difficult?,Negative,Frustration
+I am really scared about the future.,Negative,Fear
+I feel very relaxed.,Neutral,Calm
+I feel very relaxed.,Neutral,Calm
+This situation is making me anxious.,Negative,Fear
+I love spending time with my family!,Positive,Joy
+This situation is making me anxious.,Negative,Fear
+I feel very relaxed.,Neutral,Calm
+What a beautiful day!,Positive,Joy
+Nothing is going my way.,Negative,Frustration
+I love spending time with my family!,Positive,Joy
+Why is this so difficult?,Negative,Frustration
+Everything is peaceful right now.,Neutral,Calm
+This moment is so soothing.,Neutral,Calm
+Everything is peaceful right now.,Neutral,Calm
+I feel very relaxed.,Neutral,Calm
+I feel unsafe.,Negative,Fear
+I am so frustrated with this!,Negative,Anger
+Nothing is going my way.,Negative,Frustration
+I love spending time with my family!,Positive,Joy
+I feel very relaxed.,Neutral,Calm
+I am so frustrated with this!,Negative,Anger
+I feel so lonely.,Negative,Sadness
+I am really scared about the future.,Negative,Fear
+This moment is so soothing.,Neutral,Calm
+I feel unsafe.,Negative,Fear
+Why is this so difficult?,Negative,Frustration
+I feel unsafe.,Negative,Fear
+I feel very relaxed.,Neutral,Calm
+What a beautiful day!,Positive,Joy
+Today was a really bad day.,Negative,Sadness
+I feel very relaxed.,Neutral,Calm
+I feel very relaxed.,Neutral,Calm
+That was an unexpected turn of events!,Positive,Surprise
+I miss my best friend.,Negative,Sadness
+I just can't get this to work!,Negative,Frustration
+I feel very relaxed.,Neutral,Calm
+I feel so lonely.,Negative,Sadness
+What a beautiful day!,Positive,Joy
+What a beautiful day!,Positive,Joy
+I am so frustrated with this!,Negative,Anger
+Nothing is going my way.,Negative,Frustration
+This situation is making me anxious.,Negative,Fear
+I love spending time with my family!,Positive,Joy
+I just can't get this to work!,Negative,Frustration
+Nothing is going my way.,Negative,Frustration
+I miss my best friend.,Negative,Sadness
+I feel unsafe.,Negative,Fear
+What a beautiful day!,Positive,Joy
+Nothing is going my way.,Negative,Frustration
+Everything is peaceful right now.,Neutral,Calm
+I am so frustrated with this!,Negative,Anger
+I love spending time with my family!,Positive,Joy
+This is so unfair!,Negative,Anger
+That was an unexpected turn of events!,Positive,Surprise
+I miss my best friend.,Negative,Sadness
+I just can't get this to work!,Negative,Frustration
+"Wow, I didn't see that coming!",Positive,Surprise
+What a beautiful day!,Positive,Joy
+I am so frustrated with this!,Negative,Anger
+I feel very relaxed.,Neutral,Calm
+I love spending time with my family!,Positive,Joy
+I feel so lonely.,Negative,Sadness
+What a beautiful day!,Positive,Joy
+I just can't get this to work!,Negative,Frustration
+This is so unfair!,Negative,Anger
+Why does everything go wrong?,Negative,Anger
+I love spending time with my family!,Positive,Joy
+Everything is peaceful right now.,Neutral,Calm
+Why does everything go wrong?,Negative,Anger
+Why is this so difficult?,Negative,Frustration
+This moment is so soothing.,Neutral,Calm
+This moment is so soothing.,Neutral,Calm
+That was an unexpected turn of events!,Positive,Surprise
+"Wow, I didn't see that coming!",Positive,Surprise
+This is so unfair!,Negative,Anger
+Why does everything go wrong?,Negative,Anger
+Why is this so difficult?,Negative,Frustration
+I feel amazing today!,Positive,Joy
+"Wow, I didn't see that coming!",Positive,Surprise
+What a beautiful day!,Positive,Joy
+This situation is making me anxious.,Negative,Fear
+Today was a really bad day.,Negative,Sadness
+This situation is making me anxious.,Negative,Fear
+"Wow, I didn't see that coming!",Positive,Surprise
+What a beautiful day!,Positive,Joy
+I can't believe it!,Positive,Surprise
+Everything is peaceful right now.,Neutral,Calm
+I feel unsafe.,Negative,Fear
+I feel very relaxed.,Neutral,Calm
+I am really scared about the future.,Negative,Fear
+That was an unexpected turn of events!,Positive,Surprise
+I am so frustrated with this!,Negative,Anger
+What a beautiful day!,Positive,Joy
+That was an unexpected turn of events!,Positive,Surprise
+Today was a really bad day.,Negative,Sadness
+I can't believe it!,Positive,Surprise
+I miss my best friend.,Negative,Sadness
+This is so unfair!,Negative,Anger
+Nothing is going my way.,Negative,Frustration
+I can't believe it!,Positive,Surprise
+I love spending time with my family!,Positive,Joy
+I just can't get this to work!,Negative,Frustration
+I am so frustrated with this!,Negative,Anger
+"Wow, I didn't see that coming!",Positive,Surprise
+This is so unfair!,Negative,Anger
+I just can't get this to work!,Negative,Frustration
+I feel amazing today!,Positive,Joy
+I love spending time with my family!,Positive,Joy
+I just can't get this to work!,Negative,Frustration
+I feel unsafe.,Negative,Fear
+Today was a really bad day.,Negative,Sadness
+I can't believe it!,Positive,Surprise
+Nothing is going my way.,Negative,Frustration
+Everything is peaceful right now.,Neutral,Calm
+I can't believe it!,Positive,Surprise
+This moment is so soothing.,Neutral,Calm
+I feel amazing today!,Positive,Joy
+This situation is making me anxious.,Negative,Fear
+I love spending time with my family!,Positive,Joy
+What a beautiful day!,Positive,Joy
+Nothing is going my way.,Negative,Frustration
+I am so frustrated with this!,Negative,Anger
+"Wow, I didn't see that coming!",Positive,Surprise
+What a beautiful day!,Positive,Joy
+This situation is making me anxious.,Negative,Fear
+This is so unfair!,Negative,Anger
+This situation is making me anxious.,Negative,Fear
+Everything is peaceful right now.,Neutral,Calm
+I feel very relaxed.,Neutral,Calm
+I am so frustrated with this!,Negative,Anger
+I am so frustrated with this!,Negative,Anger
+I feel amazing today!,Positive,Joy
+Why is this so difficult?,Negative,Frustration
+Nothing is going my way.,Negative,Frustration
+"Wow, I didn't see that coming!",Positive,Surprise
+I am really scared about the future.,Negative,Fear
+I feel amazing today!,Positive,Joy
+I feel amazing today!,Positive,Joy
+Nothing is going my way.,Negative,Frustration
+This is so unfair!,Negative,Anger
+Nothing is going my way.,Negative,Frustration
+Why does everything go wrong?,Negative,Anger
+I feel amazing today!,Positive,Joy
+I feel unsafe.,Negative,Fear
+I miss my best friend.,Negative,Sadness
+That was an unexpected turn of events!,Positive,Surprise
+Why is this so difficult?,Negative,Frustration
+This situation is making me anxious.,Negative,Fear
+This moment is so soothing.,Neutral,Calm
+I am really scared about the future.,Negative,Fear
+That was an unexpected turn of events!,Positive,Surprise
+This situation is making me anxious.,Negative,Fear
+I am really scared about the future.,Negative,Fear
+I miss my best friend.,Negative,Sadness
+I am really scared about the future.,Negative,Fear
+That was an unexpected turn of events!,Positive,Surprise
+Why does everything go wrong?,Negative,Anger
+I feel so lonely.,Negative,Sadness
+Everything is peaceful right now.,Neutral,Calm
+I feel very relaxed.,Neutral,Calm
+"Wow, I didn't see that coming!",Positive,Surprise
+Today was a really bad day.,Negative,Sadness
+I feel amazing today!,Positive,Joy
+I can't believe it!,Positive,Surprise
+This moment is so soothing.,Neutral,Calm
+I feel amazing today!,Positive,Joy
+I am so frustrated with this!,Negative,Anger
+"Wow, I didn't see that coming!",Positive,Surprise
+I feel very relaxed.,Neutral,Calm
+This situation is making me anxious.,Negative,Fear
+Everything is peaceful right now.,Neutral,Calm
+I just can't get this to work!,Negative,Frustration
+I just can't get this to work!,Negative,Frustration
+Why is this so difficult?,Negative,Frustration
+I am really scared about the future.,Negative,Fear
+This is so unfair!,Negative,Anger
+I just can't get this to work!,Negative,Frustration
+I am so frustrated with this!,Negative,Anger
+What a beautiful day!,Positive,Joy
+Today was a really bad day.,Negative,Sadness
+Why is this so difficult?,Negative,Frustration
+"Wow, I didn't see that coming!",Positive,Surprise
+I feel amazing today!,Positive,Joy
+I just can't get this to work!,Negative,Frustration
+This moment is so soothing.,Neutral,Calm
+Why is this so difficult?,Negative,Frustration
+I miss my best friend.,Negative,Sadness
+That was an unexpected turn of events!,Positive,Surprise
+This is so unfair!,Negative,Anger
+This situation is making me anxious.,Negative,Fear
+Why does everything go wrong?,Negative,Anger
+Everything is peaceful right now.,Neutral,Calm
+I feel so lonely.,Negative,Sadness
+I feel so lonely.,Negative,Sadness
+I can't believe it!,Positive,Surprise
+This is so unfair!,Negative,Anger
+I am really scared about the future.,Negative,Fear
+I can't believe it!,Positive,Surprise
+Why does everything go wrong?,Negative,Anger
+That was an unexpected turn of events!,Positive,Surprise
+This situation is making me anxious.,Negative,Fear
+Nothing is going my way.,Negative,Frustration
+That was an unexpected turn of events!,Positive,Surprise
+This moment is so soothing.,Neutral,Calm
+I feel amazing today!,Positive,Joy
+I love spending time with my family!,Positive,Joy
+I feel amazing today!,Positive,Joy
+I am really scared about the future.,Negative,Fear
+Why does everything go wrong?,Negative,Anger
+I am really scared about the future.,Negative,Fear
+I am really scared about the future.,Negative,Fear
+I can't believe it!,Positive,Surprise
+Nothing is going my way.,Negative,Frustration
+I am really scared about the future.,Negative,Fear
+This moment is so soothing.,Neutral,Calm
+Nothing is going my way.,Negative,Frustration
+That was an unexpected turn of events!,Positive,Surprise
+What a beautiful day!,Positive,Joy
+Why is this so difficult?,Negative,Frustration
+I love spending time with my family!,Positive,Joy
+Everything is peaceful right now.,Neutral,Calm
+This is so unfair!,Negative,Anger
+This situation is making me anxious.,Negative,Fear
+I love spending time with my family!,Positive,Joy
+Why is this so difficult?,Negative,Frustration
+Nothing is going my way.,Negative,Frustration
+That was an unexpected turn of events!,Positive,Surprise
+Everything is peaceful right now.,Neutral,Calm
+That was an unexpected turn of events!,Positive,Surprise
+I miss my best friend.,Negative,Sadness
+Today was a really bad day.,Negative,Sadness
+I feel unsafe.,Negative,Fear
+That was an unexpected turn of events!,Positive,Surprise
+I feel very relaxed.,Neutral,Calm
+I love spending time with my family!,Positive,Joy
+This moment is so soothing.,Neutral,Calm
+I just can't get this to work!,Negative,Frustration
+Why is this so difficult?,Negative,Frustration
+I feel amazing today!,Positive,Joy
+I feel very relaxed.,Neutral,Calm
+"Wow, I didn't see that coming!",Positive,Surprise
+Everything is peaceful right now.,Neutral,Calm
+I can't believe it!,Positive,Surprise
+I just can't get this to work!,Negative,Frustration
+That was an unexpected turn of events!,Positive,Surprise
+I feel very relaxed.,Neutral,Calm
+I just can't get this to work!,Negative,Frustration
+I am really scared about the future.,Negative,Fear
+I feel very relaxed.,Neutral,Calm
+Everything is peaceful right now.,Neutral,Calm
+I feel amazing today!,Positive,Joy
+I feel so lonely.,Negative,Sadness
+Nothing is going my way.,Negative,Frustration
+This moment is so soothing.,Neutral,Calm
+I just can't get this to work!,Negative,Frustration
+This is so unfair!,Negative,Anger
+"Wow, I didn't see that coming!",Positive,Surprise
+I feel very relaxed.,Neutral,Calm
+I am so frustrated with this!,Negative,Anger
+"Wow, I didn't see that coming!",Positive,Surprise
+I am really scared about the future.,Negative,Fear
+I feel amazing today!,Positive,Joy
+"Wow, I didn't see that coming!",Positive,Surprise
+I am so frustrated with this!,Negative,Anger
+I love spending time with my family!,Positive,Joy
+I am really scared about the future.,Negative,Fear
+What a beautiful day!,Positive,Joy
+I miss my best friend.,Negative,Sadness
+Everything is peaceful right now.,Neutral,Calm
+Everything is peaceful right now.,Neutral,Calm
+Today was a really bad day.,Negative,Sadness
+I feel very relaxed.,Neutral,Calm
+I just can't get this to work!,Negative,Frustration
+Nothing is going my way.,Negative,Frustration
+What a beautiful day!,Positive,Joy
+Nothing is going my way.,Negative,Frustration
+I just can't get this to work!,Negative,Frustration
+This is so unfair!,Negative,Anger
+That was an unexpected turn of events!,Positive,Surprise
+This moment is so soothing.,Neutral,Calm
+I feel unsafe.,Negative,Fear
+That was an unexpected turn of events!,Positive,Surprise
+I feel unsafe.,Negative,Fear
+What a beautiful day!,Positive,Joy
+What a beautiful day!,Positive,Joy
+Why does everything go wrong?,Negative,Anger
+"Wow, I didn't see that coming!",Positive,Surprise
+I feel amazing today!,Positive,Joy
+Everything is peaceful right now.,Neutral,Calm
+Why does everything go wrong?,Negative,Anger
+Everything is peaceful right now.,Neutral,Calm
+I am so frustrated with this!,Negative,Anger
+Why is this so difficult?,Negative,Frustration
+What a beautiful day!,Positive,Joy
+I love spending time with my family!,Positive,Joy
+Nothing is going my way.,Negative,Frustration
+I feel amazing today!,Positive,Joy
+I feel amazing today!,Positive,Joy
+That was an unexpected turn of events!,Positive,Surprise
+Why is this so difficult?,Negative,Frustration
+I just can't get this to work!,Negative,Frustration
+Today was a really bad day.,Negative,Sadness
+This is so unfair!,Negative,Anger
+I am so frustrated with this!,Negative,Anger
+I just can't get this to work!,Negative,Frustration
+Today was a really bad day.,Negative,Sadness
+What a beautiful day!,Positive,Joy
+Everything is peaceful right now.,Neutral,Calm
+This situation is making me anxious.,Negative,Fear
+Why does everything go wrong?,Negative,Anger
+Everything is peaceful right now.,Neutral,Calm
+Everything is peaceful right now.,Neutral,Calm
+I just can't get this to work!,Negative,Frustration
+I feel so lonely.,Negative,Sadness
+Why is this so difficult?,Negative,Frustration
+I miss my best friend.,Negative,Sadness
+I feel unsafe.,Negative,Fear
+I just can't get this to work!,Negative,Frustration
+This is so unfair!,Negative,Anger
+I am so frustrated with this!,Negative,Anger
+Everything is peaceful right now.,Neutral,Calm
+I can't believe it!,Positive,Surprise
+Today was a really bad day.,Negative,Sadness
+I love spending time with my family!,Positive,Joy
+Today was a really bad day.,Negative,Sadness
+This is so unfair!,Negative,Anger
+I am so frustrated with this!,Negative,Anger
+This moment is so soothing.,Neutral,Calm
+What a beautiful day!,Positive,Joy
+Today was a really bad day.,Negative,Sadness
+Today was a really bad day.,Negative,Sadness
+I just can't get this to work!,Negative,Frustration
+Why is this so difficult?,Negative,Frustration
+What a beautiful day!,Positive,Joy
+Why is this so difficult?,Negative,Frustration
+This situation is making me anxious.,Negative,Fear
+This situation is making me anxious.,Negative,Fear
+I can't believe it!,Positive,Surprise
+Why does everything go wrong?,Negative,Anger
+I am really scared about the future.,Negative,Fear
+I am so frustrated with this!,Negative,Anger
+I am really scared about the future.,Negative,Fear
+Nothing is going my way.,Negative,Frustration
+Why is this so difficult?,Negative,Frustration
+I can't believe it!,Positive,Surprise
+I feel very relaxed.,Neutral,Calm
+"Wow, I didn't see that coming!",Positive,Surprise
+I miss my best friend.,Negative,Sadness
+Nothing is going my way.,Negative,Frustration
+"Wow, I didn't see that coming!",Positive,Surprise
+Today was a really bad day.,Negative,Sadness
+I feel amazing today!,Positive,Joy
+I am so frustrated with this!,Negative,Anger
+"Wow, I didn't see that coming!",Positive,Surprise
+Why does everything go wrong?,Negative,Anger
+I love spending time with my family!,Positive,Joy
+That was an unexpected turn of events!,Positive,Surprise
+Today was a really bad day.,Negative,Sadness
+That was an unexpected turn of events!,Positive,Surprise
+Everything is peaceful right now.,Neutral,Calm
+Today was a really bad day.,Negative,Sadness
+This moment is so soothing.,Neutral,Calm
+I just can't get this to work!,Negative,Frustration
+Everything is peaceful right now.,Neutral,Calm
+This moment is so soothing.,Neutral,Calm
+I feel so lonely.,Negative,Sadness
+Why does everything go wrong?,Negative,Anger
+I can't believe it!,Positive,Surprise
+Today was a really bad day.,Negative,Sadness
+I miss my best friend.,Negative,Sadness
+Why does everything go wrong?,Negative,Anger
+I miss my best friend.,Negative,Sadness
+I feel amazing today!,Positive,Joy
+Nothing is going my way.,Negative,Frustration
+Today was a really bad day.,Negative,Sadness
+I feel so lonely.,Negative,Sadness
+I just can't get this to work!,Negative,Frustration
+Why does everything go wrong?,Negative,Anger
+Nothing is going my way.,Negative,Frustration
+I miss my best friend.,Negative,Sadness
+Everything is peaceful right now.,Neutral,Calm
+I feel so lonely.,Negative,Sadness
+I feel very relaxed.,Neutral,Calm
+"Wow, I didn't see that coming!",Positive,Surprise
+I am so frustrated with this!,Negative,Anger
+I can't believe it!,Positive,Surprise
+I am really scared about the future.,Negative,Fear
+Why is this so difficult?,Negative,Frustration
+I feel unsafe.,Negative,Fear
+This situation is making me anxious.,Negative,Fear
+This situation is making me anxious.,Negative,Fear
+I just can't get this to work!,Negative,Frustration
+Nothing is going my way.,Negative,Frustration
+I miss my best friend.,Negative,Sadness
+That was an unexpected turn of events!,Positive,Surprise
+I am really scared about the future.,Negative,Fear
+I can't believe it!,Positive,Surprise
+I feel so lonely.,Negative,Sadness
+I am so frustrated with this!,Negative,Anger
+I feel so lonely.,Negative,Sadness
+Why does everything go wrong?,Negative,Anger
+Nothing is going my way.,Negative,Frustration
+"Wow, I didn't see that coming!",Positive,Surprise
+I miss my best friend.,Negative,Sadness
+I am so frustrated with this!,Negative,Anger
+I miss my best friend.,Negative,Sadness
+I feel unsafe.,Negative,Fear
+This situation is making me anxious.,Negative,Fear
+I feel very relaxed.,Neutral,Calm
+This situation is making me anxious.,Negative,Fear
+Why does everything go wrong?,Negative,Anger
+Nothing is going my way.,Negative,Frustration
+Nothing is going my way.,Negative,Frustration
+I love spending time with my family!,Positive,Joy
+Why is this so difficult?,Negative,Frustration
+I am so frustrated with this!,Negative,Anger
+I just can't get this to work!,Negative,Frustration
+This moment is so soothing.,Neutral,Calm
+This moment is so soothing.,Neutral,Calm
+I am really scared about the future.,Negative,Fear
+Everything is peaceful right now.,Neutral,Calm
+Nothing is going my way.,Negative,Frustration
+"Wow, I didn't see that coming!",Positive,Surprise
+Today was a really bad day.,Negative,Sadness
+This situation is making me anxious.,Negative,Fear
+Why is this so difficult?,Negative,Frustration
+I just can't get this to work!,Negative,Frustration
+This moment is so soothing.,Neutral,Calm
+I feel unsafe.,Negative,Fear
+I love spending time with my family!,Positive,Joy
+What a beautiful day!,Positive,Joy
+Why does everything go wrong?,Negative,Anger
+I love spending time with my family!,Positive,Joy
+Everything is peaceful right now.,Neutral,Calm
+This situation is making me anxious.,Negative,Fear
+What a beautiful day!,Positive,Joy
+I feel unsafe.,Negative,Fear
+I am so frustrated with this!,Negative,Anger
+I just can't get this to work!,Negative,Frustration
+I am really scared about the future.,Negative,Fear
+Nothing is going my way.,Negative,Frustration
+Today was a really bad day.,Negative,Sadness
+Everything is peaceful right now.,Neutral,Calm
+I miss my best friend.,Negative,Sadness
+I love spending time with my family!,Positive,Joy
+I feel very relaxed.,Neutral,Calm
+I can't believe it!,Positive,Surprise
+This moment is so soothing.,Neutral,Calm
+This moment is so soothing.,Neutral,Calm
+I just can't get this to work!,Negative,Frustration
+Why is this so difficult?,Negative,Frustration
+Why does everything go wrong?,Negative,Anger
+This moment is so soothing.,Neutral,Calm
+Nothing is going my way.,Negative,Frustration
+I feel unsafe.,Negative,Fear
+I can't believe it!,Positive,Surprise
+What a beautiful day!,Positive,Joy
+Why does everything go wrong?,Negative,Anger
+Everything is peaceful right now.,Neutral,Calm
+Nothing is going my way.,Negative,Frustration
+I love spending time with my family!,Positive,Joy
+"Wow, I didn't see that coming!",Positive,Surprise
+Why does everything go wrong?,Negative,Anger
+I feel amazing today!,Positive,Joy
+Nothing is going my way.,Negative,Frustration
+I feel very relaxed.,Neutral,Calm
+Why is this so difficult?,Negative,Frustration
+Everything is peaceful right now.,Neutral,Calm
+I am really scared about the future.,Negative,Fear
+I can't believe it!,Positive,Surprise
+I can't believe it!,Positive,Surprise
+Why is this so difficult?,Negative,Frustration
+Why does everything go wrong?,Negative,Anger
+Why does everything go wrong?,Negative,Anger
+I feel very relaxed.,Neutral,Calm
+I love spending time with my family!,Positive,Joy
+Nothing is going my way.,Negative,Frustration
+I can't believe it!,Positive,Surprise
+This situation is making me anxious.,Negative,Fear
+That was an unexpected turn of events!,Positive,Surprise
+Today was a really bad day.,Negative,Sadness
+What a beautiful day!,Positive,Joy
+I love spending time with my family!,Positive,Joy
+I feel so lonely.,Negative,Sadness
+I feel amazing today!,Positive,Joy
+I miss my best friend.,Negative,Sadness
+Nothing is going my way.,Negative,Frustration
+This is so unfair!,Negative,Anger
+I am so frustrated with this!,Negative,Anger
+Why is this so difficult?,Negative,Frustration
+I just can't get this to work!,Negative,Frustration
+What a beautiful day!,Positive,Joy
+I can't believe it!,Positive,Surprise
+"Wow, I didn't see that coming!",Positive,Surprise
+I feel unsafe.,Negative,Fear
+I feel amazing today!,Positive,Joy
+Today was a really bad day.,Negative,Sadness
+Why does everything go wrong?,Negative,Anger
+I just can't get this to work!,Negative,Frustration
+I can't believe it!,Positive,Surprise
+I feel unsafe.,Negative,Fear
+I feel unsafe.,Negative,Fear
+I feel amazing today!,Positive,Joy
+I am so frustrated with this!,Negative,Anger
+Why does everything go wrong?,Negative,Anger
+This situation is making me anxious.,Negative,Fear
+Everything is peaceful right now.,Neutral,Calm
+That was an unexpected turn of events!,Positive,Surprise
+I am so frustrated with this!,Negative,Anger
+I can't believe it!,Positive,Surprise
+I love spending time with my family!,Positive,Joy
+Everything is peaceful right now.,Neutral,Calm
+I feel so lonely.,Negative,Sadness
+This situation is making me anxious.,Negative,Fear
+"Wow, I didn't see that coming!",Positive,Surprise
+This moment is so soothing.,Neutral,Calm
+Everything is peaceful right now.,Neutral,Calm
+Why is this so difficult?,Negative,Frustration
+What a beautiful day!,Positive,Joy
+I feel so lonely.,Negative,Sadness
+Nothing is going my way.,Negative,Frustration
+"Wow, I didn't see that coming!",Positive,Surprise
+Nothing is going my way.,Negative,Frustration
+Nothing is going my way.,Negative,Frustration
+This moment is so soothing.,Neutral,Calm
+"Wow, I didn't see that coming!",Positive,Surprise
+I feel unsafe.,Negative,Fear
+I feel unsafe.,Negative,Fear
+This is so unfair!,Negative,Anger
+That was an unexpected turn of events!,Positive,Surprise
+I feel very relaxed.,Neutral,Calm
+"Wow, I didn't see that coming!",Positive,Surprise
+I just can't get this to work!,Negative,Frustration
+I am really scared about the future.,Negative,Fear
+Nothing is going my way.,Negative,Frustration
+I just can't get this to work!,Negative,Frustration
+I miss my best friend.,Negative,Sadness
+This moment is so soothing.,Neutral,Calm
+Nothing is going my way.,Negative,Frustration
+I just can't get this to work!,Negative,Frustration
+I feel unsafe.,Negative,Fear
+Everything is peaceful right now.,Neutral,Calm
+I miss my best friend.,Negative,Sadness
+This situation is making me anxious.,Negative,Fear
+Why does everything go wrong?,Negative,Anger
+Why is this so difficult?,Negative,Frustration
+That was an unexpected turn of events!,Positive,Surprise
+I love spending time with my family!,Positive,Joy
+I just can't get this to work!,Negative,Frustration
+That was an unexpected turn of events!,Positive,Surprise
+What a beautiful day!,Positive,Joy
+"Wow, I didn't see that coming!",Positive,Surprise
+I can't believe it!,Positive,Surprise
+I am so frustrated with this!,Negative,Anger
+I am so frustrated with this!,Negative,Anger
+This is so unfair!,Negative,Anger
+That was an unexpected turn of events!,Positive,Surprise
+This is so unfair!,Negative,Anger
+That was an unexpected turn of events!,Positive,Surprise
+Nothing is going my way.,Negative,Frustration
+I can't believe it!,Positive,Surprise
+I feel very relaxed.,Neutral,Calm
+This moment is so soothing.,Neutral,Calm
+This is so unfair!,Negative,Anger
+I feel unsafe.,Negative,Fear
+I am really scared about the future.,Negative,Fear
+I feel amazing today!,Positive,Joy
+Everything is peaceful right now.,Neutral,Calm
+I feel amazing today!,Positive,Joy
+Why is this so difficult?,Negative,Frustration
+Today was a really bad day.,Negative,Sadness
+Today was a really bad day.,Negative,Sadness
+I love spending time with my family!,Positive,Joy
+I feel unsafe.,Negative,Fear
+Why is this so difficult?,Negative,Frustration
+What a beautiful day!,Positive,Joy
+This situation is making me anxious.,Negative,Fear
+Nothing is going my way.,Negative,Frustration
+I just can't get this to work!,Negative,Frustration
+I feel unsafe.,Negative,Fear
+I love spending time with my family!,Positive,Joy
+I feel so lonely.,Negative,Sadness
+I just can't get this to work!,Negative,Frustration
+"Wow, I didn't see that coming!",Positive,Surprise
+That was an unexpected turn of events!,Positive,Surprise
+I feel unsafe.,Negative,Fear
+"Wow, I didn't see that coming!",Positive,Surprise
+This moment is so soothing.,Neutral,Calm
+This moment is so soothing.,Neutral,Calm
+I feel amazing today!,Positive,Joy
+I feel unsafe.,Negative,Fear
+I feel so lonely.,Negative,Sadness
+I just can't get this to work!,Negative,Frustration
+I feel unsafe.,Negative,Fear
+Why does everything go wrong?,Negative,Anger
+I feel amazing today!,Positive,Joy
+Nothing is going my way.,Negative,Frustration
+This is so unfair!,Negative,Anger
+This moment is so soothing.,Neutral,Calm
+Why does everything go wrong?,Negative,Anger
+I feel so lonely.,Negative,Sadness
+This situation is making me anxious.,Negative,Fear
+I miss my best friend.,Negative,Sadness
+This is so unfair!,Negative,Anger
+What a beautiful day!,Positive,Joy
+I am so frustrated with this!,Negative,Anger
+This moment is so soothing.,Neutral,Calm
+That was an unexpected turn of events!,Positive,Surprise
+I feel unsafe.,Negative,Fear
+This situation is making me anxious.,Negative,Fear
+This moment is so soothing.,Neutral,Calm
+Everything is peaceful right now.,Neutral,Calm
+I can't believe it!,Positive,Surprise
+What a beautiful day!,Positive,Joy
+I feel very relaxed.,Neutral,Calm
+I feel very relaxed.,Neutral,Calm
+I feel so lonely.,Negative,Sadness
+I am really scared about the future.,Negative,Fear
+I just can't get this to work!,Negative,Frustration
+I love spending time with my family!,Positive,Joy
+"Wow, I didn't see that coming!",Positive,Surprise
+I am really scared about the future.,Negative,Fear
+I feel amazing today!,Positive,Joy
+Today was a really bad day.,Negative,Sadness
+This is so unfair!,Negative,Anger
+I love spending time with my family!,Positive,Joy
+This moment is so soothing.,Neutral,Calm
+Why is this so difficult?,Negative,Frustration
+Why does everything go wrong?,Negative,Anger
+Why is this so difficult?,Negative,Frustration
+I miss my best friend.,Negative,Sadness
+Nothing is going my way.,Negative,Frustration
+This situation is making me anxious.,Negative,Fear
+I feel very relaxed.,Neutral,Calm
+Today was a really bad day.,Negative,Sadness
+I can't believe it!,Positive,Surprise
+I am so frustrated with this!,Negative,Anger
+I just can't get this to work!,Negative,Frustration
+I feel amazing today!,Positive,Joy
+I miss my best friend.,Negative,Sadness
+This moment is so soothing.,Neutral,Calm
+Nothing is going my way.,Negative,Frustration
+I just can't get this to work!,Negative,Frustration
+Today was a really bad day.,Negative,Sadness
+This is so unfair!,Negative,Anger
+I can't believe it!,Positive,Surprise
+Today was a really bad day.,Negative,Sadness
+I can't believe it!,Positive,Surprise
+I just can't get this to work!,Negative,Frustration
+I feel very relaxed.,Neutral,Calm
+I am really scared about the future.,Negative,Fear
+I feel unsafe.,Negative,Fear
+That was an unexpected turn of events!,Positive,Surprise
+I feel very relaxed.,Neutral,Calm
+I just can't get this to work!,Negative,Frustration
+I can't believe it!,Positive,Surprise
+This situation is making me anxious.,Negative,Fear
+I feel amazing today!,Positive,Joy
+Why is this so difficult?,Negative,Frustration
+Nothing is going my way.,Negative,Frustration
+Nothing is going my way.,Negative,Frustration
+This situation is making me anxious.,Negative,Fear
+What a beautiful day!,Positive,Joy
+I love spending time with my family!,Positive,Joy
+Everything is peaceful right now.,Neutral,Calm
+Everything is peaceful right now.,Neutral,Calm
+Today was a really bad day.,Negative,Sadness
+I feel so lonely.,Negative,Sadness
+This situation is making me anxious.,Negative,Fear
+This is so unfair!,Negative,Anger
+That was an unexpected turn of events!,Positive,Surprise
+I feel very relaxed.,Neutral,Calm
+Why does everything go wrong?,Negative,Anger
+What a beautiful day!,Positive,Joy
+"Wow, I didn't see that coming!",Positive,Surprise
+This situation is making me anxious.,Negative,Fear
+I love spending time with my family!,Positive,Joy
+I am so frustrated with this!,Negative,Anger
+Nothing is going my way.,Negative,Frustration
+That was an unexpected turn of events!,Positive,Surprise
+Nothing is going my way.,Negative,Frustration
+I just can't get this to work!,Negative,Frustration
+Why is this so difficult?,Negative,Frustration
+I feel very relaxed.,Neutral,Calm
+That was an unexpected turn of events!,Positive,Surprise
+I feel unsafe.,Negative,Fear
+Nothing is going my way.,Negative,Frustration
+That was an unexpected turn of events!,Positive,Surprise
+I feel very relaxed.,Neutral,Calm
+What a beautiful day!,Positive,Joy
+This is so unfair!,Negative,Anger
+I can't believe it!,Positive,Surprise
+I feel unsafe.,Negative,Fear
+I feel unsafe.,Negative,Fear
+Everything is peaceful right now.,Neutral,Calm
+Why is this so difficult?,Negative,Frustration
+I feel so lonely.,Negative,Sadness
+This is so annoying!,Negative,Frustration
+Life feels so empty.,Negative,Sadness
+Life feels so empty.,Negative,Sadness
+This moment is so soothing.,Neutral,Calm
+I can't believe it!,Positive,Surprise
+I miss my best friend.,Negative,Sadness
+I feel so down today.,Negative,Sadness
+Nothing makes me happy anymore.,Negative,Sadness
+This is so unfair!,Negative,Anger
+Just another normal day.,Neutral,Calm
+Nothing makes me happy anymore.,Negative,Sadness
+I can't believe it!,Positive,Surprise
+I am so frustrated with this!,Negative,Anger
+Why do they always do this?,Negative,Anger
+I feel so lonely.,Negative,Sadness
+Didn't expect this but I'm thrilled!,Positive,Surprise
+Wow, I didn't see that coming!,Positive,Surprise
+This is so unfair!,Negative,Anger
+I'm so mad right now!,Negative,Anger
+That was an unexpected turn of events!,Positive,Surprise
+This moment is so soothing.,Neutral,Calm
+I feel amazing today!,Positive,Joy
+This moment is so soothing.,Neutral,Calm
+Why is this so difficult?,Negative,Frustration
+Life feels so empty.,Negative,Sadness
+I feel so down today.,Negative,Sadness
+Wow, I didn't see that coming!,Positive,Surprise
+This is such a pleasant surprise!,Positive,Surprise
+Everything is falling into place!,Positive,Joy
+I'm tired of this struggle.,Negative,Frustration
+I can't believe it!,Positive,Surprise
+Why is this so difficult?,Negative,Frustration
+This moment is so soothing.,Neutral,Calm
+I'm so mad right now!,Negative,Anger
+This is so unfair!,Negative,Anger
+Why do they always do this?,Negative,Anger
+What a beautiful day!,Positive,Joy
+I just can't get this to work!,Negative,Frustration
+I'm really scared about the future.,Negative,Fear
+Didn't expect this but I'm thrilled!,Positive,Surprise
+This is such a pleasant surprise!,Positive,Surprise
+Why is this so difficult?,Negative,Frustration
+I love spending time with my family.,Positive,Joy
+Why does everything go wrong?,Negative,Anger
+Everything is falling into place!,Positive,Joy
+Wow, I didn't see that coming!,Positive,Surprise
+That was an unexpected turn of events!,Positive,Surprise
+Why does everything go wrong?,Negative,Anger
+This is such a pleasant surprise!,Positive,Surprise
+I'm feeling at peace.,Neutral,Calm
+This is such a pleasant surprise!,Positive,Surprise
+I feel unsafe.,Negative,Fear
+Didn't expect this but I'm thrilled!,Positive,Surprise
+Didn't expect this but I'm thrilled!,Positive,Surprise
+Life feels so empty.,Negative,Sadness
+I just can't get this to work!,Negative,Frustration
+I feel so lonely.,Negative,Sadness
+Just another normal day.,Neutral,Calm
+I can't believe it!,Positive,Surprise
+Life feels so empty.,Negative,Sadness
+I feel so lonely.,Negative,Sadness
+I don't know what will happen next.,Negative,Fear
+I feel unsafe.,Negative,Fear
+This situation is making me anxious.,Negative,Fear
+I feel unsafe.,Negative,Fear
+Everything is falling into place!,Positive,Joy
+This situation is making me anxious.,Negative,Fear
+Life feels so empty.,Negative,Sadness
+I can't believe it!,Positive,Surprise
+Silence is comforting today.,Neutral,Calm
+Why do they always do this?,Negative,Anger
+I can't believe it!,Positive,Surprise
+What a beautiful day!,Positive,Joy
+This is so annoying!,Negative,Frustration
+This is so annoying!,Negative,Frustration
+I am so frustrated with this!,Negative,Anger
+This success means so much to me.,Positive,Joy
+Why do they always do this?,Negative,Anger
+I feel unsafe.,Negative,Fear
+I love spending time with my family.,Positive,Joy
+This is so unfair!,Negative,Anger
+I'm feeling at peace.,Neutral,Calm
+Nothing makes me happy anymore.,Negative,Sadness
+I just can't get this to work!,Negative,Frustration
+I feel unsafe.,Negative,Fear
+I can't believe it!,Positive,Surprise
+Everything is falling into place!,Positive,Joy
+I'm feeling at peace.,Neutral,Calm
+Nothing is going my way.,Negative,Frustration
+This moment is so soothing.,Neutral,Calm
+Didn't expect this but I'm thrilled!,Positive,Surprise
+I miss my best friend.,Negative,Sadness
+Silence is comforting today.,Neutral,Calm
+I'm tired of this struggle.,Negative,Frustration
+Why is this so difficult?,Negative,Frustration
+I'm really scared about the future.,Negative,Fear
+Everything is falling into place!,Positive,Joy
+I feel amazing today!,Positive,Joy
+I miss my best friend.,Negative,Sadness
+Why is this so difficult?,Negative,Frustration
+I feel so down today.,Negative,Sadness
+Nothing is going my way.,Negative,Frustration
+Why does everything go wrong?,Negative,Anger
+Wow, I didn't see that coming!,Positive,Surprise
+Nothing is going my way.,Negative,Frustration
+I'm really scared about the future.,Negative,Fear
+Everything feels balanced.,Neutral,Calm
+Just another normal day.,Neutral,Calm
+Life feels so empty.,Negative,Sadness
+This is so annoying!,Negative,Frustration
+What a beautiful day!,Positive,Joy
+Why is this so difficult?,Negative,Frustration
+I feel amazing today!,Positive,Joy
+Why is this so difficult?,Negative,Frustration
+Why is this so difficult?,Negative,Frustration
+Why is this so difficult?,Negative,Frustration
+What a beautiful day!,Positive,Joy
+This is so annoying!,Negative,Frustration
+This is so unfair!,Negative,Anger
+I am so frustrated with this!,Negative,Anger
+I can't believe it!,Positive,Surprise
+This moment is so soothing.,Neutral,Calm
+This is so annoying!,Negative,Frustration
+I'm tired of this struggle.,Negative,Frustration
+Nothing is going my way.,Negative,Frustration
+This is so unfair!,Negative,Anger
+Why do they always do this?,Negative,Anger
+I just can't get this to work!,Negative,Frustration
+I can't believe it!,Positive,Surprise
+Life feels so empty.,Negative,Sadness
+Life feels so empty.,Negative,Sadness
+I just can't get this to work!,Negative,Frustration
+That was an unexpected turn of events!,Positive,Surprise
+That was an unexpected turn of events!,Positive,Surprise
+I feel amazing today!,Positive,Joy
+Wow, I didn't see that coming!,Positive,Surprise
+I feel unsafe.,Negative,Fear
+Everything feels balanced.,Neutral,Calm
+Silence is comforting today.,Neutral,Calm
+This moment is so soothing.,Neutral,Calm
+Wow, I didn't see that coming!,Positive,Surprise
+Nothing is going my way.,Negative,Frustration
+I don't know what will happen next.,Negative,Fear
+This success means so much to me.,Positive,Joy
+I am so frustrated with this!,Negative,Anger
+This success means so much to me.,Positive,Joy
+I feel amazing today!,Positive,Joy
+This success means so much to me.,Positive,Joy
+Didn't expect this but I'm thrilled!,Positive,Surprise
+I can't believe it!,Positive,Surprise
+This success means so much to me.,Positive,Joy
+This success means so much to me.,Positive,Joy
+I just can't get this to work!,Negative,Frustration
+Everything feels balanced.,Neutral,Calm
+This is such a pleasant surprise!,Positive,Surprise
+This is so unfair!,Negative,Anger
+I feel unsafe.,Negative,Fear
+Silence is comforting today.,Neutral,Calm
+I am so frustrated with this!,Negative,Anger
+Everything makes me nervous.,Negative,Fear
+Why is this so difficult?,Negative,Frustration
+This situation is making me anxious.,Negative,Fear
+I'm so mad right now!,Negative,Anger
+Why do they always do this?,Negative,Anger
+Why does everything go wrong?,Negative,Anger
+I feel so lonely.,Negative,Sadness
+Life feels so empty.,Negative,Sadness
+This is so annoying!,Negative,Frustration
+Why does everything go wrong?,Negative,Anger
+Wow, I didn't see that coming!,Positive,Surprise
+I love spending time with my family.,Positive,Joy
+I miss my best friend.,Negative,Sadness
+Everything is falling into place!,Positive,Joy
+Everything is falling into place!,Positive,Joy
+I feel amazing today!,Positive,Joy
+Everything is falling into place!,Positive,Joy
+I just can't get this to work!,Negative,Frustration
+I feel so lonely.,Negative,Sadness
+Everything makes me nervous.,Negative,Fear
+I can't believe it!,Positive,Surprise
+Life feels so empty.,Negative,Sadness
+Silence is comforting today.,Neutral,Calm
+Everything feels balanced.,Neutral,Calm
+I feel so lonely.,Negative,Sadness
+This is so unfair!,Negative,Anger
+I am so frustrated with this!,Negative,Anger
+Everything feels balanced.,Neutral,Calm
+Everything feels balanced.,Neutral,Calm
+I'm tired of this struggle.,Negative,Frustration
+I'm so mad right now!,Negative,Anger
+I'm so mad right now!,Negative,Anger
+This is such a pleasant surprise!,Positive,Surprise
+I'm tired of this struggle.,Negative,Frustration
+Nothing makes me happy anymore.,Negative,Sadness
+Everything is falling into place!,Positive,Joy
+I'm tired of this struggle.,Negative,Frustration
+I'm tired of this struggle.,Negative,Frustration
+I feel so down today.,Negative,Sadness
+I am so frustrated with this!,Negative,Anger
+I just can't get this to work!,Negative,Frustration
+Wow, I didn't see that coming!,Positive,Surprise
+Didn't expect this but I'm thrilled!,Positive,Surprise
+That was an unexpected turn of events!,Positive,Surprise
+Didn't expect this but I'm thrilled!,Positive,Surprise
+This moment is so soothing.,Neutral,Calm
+I'm so mad right now!,Negative,Anger
+Didn't expect this but I'm thrilled!,Positive,Surprise
+This success means so much to me.,Positive,Joy
+Just another normal day.,Neutral,Calm
+What a beautiful day!,Positive,Joy
+I love spending time with my family.,Positive,Joy
+This moment is so soothing.,Neutral,Calm
+Just another normal day.,Neutral,Calm
+I just can't get this to work!,Negative,Frustration
+Nothing is going my way.,Negative,Frustration
+Nothing is going my way.,Negative,Frustration
+Silence is comforting today.,Neutral,Calm
+I am so frustrated with this!,Negative,Anger
+I just can't get this to work!,Negative,Frustration
+This is such a pleasant surprise!,Positive,Surprise
+Just another normal day.,Neutral,Calm
+I'm feeling at peace.,Neutral,Calm
+That was an unexpected turn of events!,Positive,Surprise
+That was an unexpected turn of events!,Positive,Surprise
+I am so frustrated with this!,Negative,Anger
+I feel so lonely.,Negative,Sadness
+I'm feeling at peace.,Neutral,Calm
+I'm really scared about the future.,Negative,Fear
+I'm really scared about the future.,Negative,Fear
+This is so annoying!,Negative,Frustration
+This situation is making me anxious.,Negative,Fear
+This success means so much to me.,Positive,Joy
+Wow, I didn't see that coming!,Positive,Surprise
+I'm tired of this struggle.,Negative,Frustration
+I love spending time with my family.,Positive,Joy
+This moment is so soothing.,Neutral,Calm
+That was an unexpected turn of events!,Positive,Surprise
+I'm so mad right now!,Negative,Anger
+I'm so mad right now!,Negative,Anger
+Just another normal day.,Neutral,Calm
+Why do they always do this?,Negative,Anger
+I just can't get this to work!,Negative,Frustration
+This moment is so soothing.,Neutral,Calm
+I love spending time with my family.,Positive,Joy
+Just another normal day.,Neutral,Calm
+Wow, I didn't see that coming!,Positive,Surprise
+Didn't expect this but I'm thrilled!,Positive,Surprise
+Why does everything go wrong?,Negative,Anger
+This is so annoying!,Negative,Frustration
+Wow, I didn't see that coming!,Positive,Surprise
+Nothing is going my way.,Negative,Frustration
+I can't believe it!,Positive,Surprise
+Everything makes me nervous.,Negative,Fear
+Wow, I didn't see that coming!,Positive,Surprise
+Everything is falling into place!,Positive,Joy
+I can't believe it!,Positive,Surprise
+I miss my best friend.,Negative,Sadness
+That was an unexpected turn of events!,Positive,Surprise
+I just can't get this to work!,Negative,Frustration
+This is such a pleasant surprise!,Positive,Surprise
+I miss my best friend.,Negative,Sadness
+Didn't expect this but I'm thrilled!,Positive,Surprise
+I feel so lonely.,Negative,Sadness
+This is such a pleasant surprise!,Positive,Surprise
+I can't believe it!,Positive,Surprise
+This moment is so soothing.,Neutral,Calm
+I'm so mad right now!,Negative,Anger
+I feel so lonely.,Negative,Sadness
+Everything is falling into place!,Positive,Joy
+That was an unexpected turn of events!,Positive,Surprise
+Life feels so empty.,Negative,Sadness
+I'm so mad right now!,Negative,Anger
+I feel so lonely.,Negative,Sadness
+Why does everything go wrong?,Negative,Anger
+I feel so down today.,Negative,Sadness
+I just can't get this to work!,Negative,Frustration
+What a beautiful day!,Positive,Joy
+Nothing is going my way.,Negative,Frustration
+Why do they always do this?,Negative,Anger
+Didn't expect this but I'm thrilled!,Positive,Surprise
+I am so frustrated with this!,Negative,Anger
+I'm really scared about the future.,Negative,Fear
+That was an unexpected turn of events!,Positive,Surprise
+Everything is falling into place!,Positive,Joy
+Why do they always do this?,Negative,Anger
+Why does everything go wrong?,Negative,Anger
+I am so frustrated with this!,Negative,Anger
+Didn't expect this but I'm thrilled!,Positive,Surprise
+That was an unexpected turn of events!,Positive,Surprise
+Nothing makes me happy anymore.,Negative,Sadness
+This situation is making me anxious.,Negative,Fear
+This success means so much to me.,Positive,Joy
+Life feels so empty.,Negative,Sadness
+This is so unfair!,Negative,Anger
+I'm really scared about the future.,Negative,Fear
+This is so unfair!,Negative,Anger
+Everything feels balanced.,Neutral,Calm
+I miss my best friend.,Negative,Sadness
+I feel amazing today!,Positive,Joy
+This situation is making me anxious.,Negative,Fear
+What a beautiful day!,Positive,Joy
+What a beautiful day!,Positive,Joy
+Nothing makes me happy anymore.,Negative,Sadness
+Why does everything go wrong?,Negative,Anger
+That was an unexpected turn of events!,Positive,Surprise
+Why does everything go wrong?,Negative,Anger
+This success means so much to me.,Positive,Joy
+This situation is making me anxious.,Negative,Fear
+Life feels so empty.,Negative,Sadness
+Nothing makes me happy anymore.,Negative,Sadness
+I miss my best friend.,Negative,Sadness
+This is such a pleasant surprise!,Positive,Surprise
+I feel unsafe.,Negative,Fear
+What a beautiful day!,Positive,Joy
+Why is this so difficult?,Negative,Frustration
+Everything feels balanced.,Neutral,Calm
+I can't believe it!,Positive,Surprise
+I am so frustrated with this!,Negative,Anger
+Life feels so empty.,Negative,Sadness
+I'm tired of this struggle.,Negative,Frustration
+Why does everything go wrong?,Negative,Anger
+I love spending time with my family.,Positive,Joy
+This is so annoying!,Negative,Frustration
+I can't believe it!,Positive,Surprise
+Silence is comforting today.,Neutral,Calm
+I'm feeling at peace.,Neutral,Calm
+Nothing makes me happy anymore.,Negative,Sadness
+Why is this so difficult?,Negative,Frustration
+Everything makes me nervous.,Negative,Fear
+This is such a pleasant surprise!,Positive,Surprise
+I just can't get this to work!,Negative,Frustration
+I am so frustrated with this!,Negative,Anger
+I feel so down today.,Negative,Sadness
+I'm really scared about the future.,Negative,Fear
+I'm so mad right now!,Negative,Anger
+Nothing makes me happy anymore.,Negative,Sadness
+I can't believe it!,Positive,Surprise
+Why do they always do this?,Negative,Anger
+I feel so down today.,Negative,Sadness
+This is such a pleasant surprise!,Positive,Surprise
+I'm really scared about the future.,Negative,Fear
+That was an unexpected turn of events!,Positive,Surprise
+This is so unfair!,Negative,Anger
+I feel so lonely.,Negative,Sadness
+This success means so much to me.,Positive,Joy
+I love spending time with my family.,Positive,Joy
+Didn't expect this but I'm thrilled!,Positive,Surprise
+I'm feeling at peace.,Neutral,Calm
+Everything is falling into place!,Positive,Joy
+Nothing makes me happy anymore.,Negative,Sadness
+I'm tired of this struggle.,Negative,Frustration
+I'm really scared about the future.,Negative,Fear
+I'm really scared about the future.,Negative,Fear
+That was an unexpected turn of events!,Positive,Surprise
+Didn't expect this but I'm thrilled!,Positive,Surprise
+I feel amazing today!,Positive,Joy
+This success means so much to me.,Positive,Joy
+I'm feeling at peace.,Neutral,Calm
+Nothing is going my way.,Negative,Frustration
+That was an unexpected turn of events!,Positive,Surprise
+That was an unexpected turn of events!,Positive,Surprise
+I can't believe it!,Positive,Surprise
+This situation is making me anxious.,Negative,Fear
+I don't know what will happen next.,Negative,Fear
+I am so frustrated with this!,Negative,Anger
+Everything is falling into place!,Positive,Joy
+I am so frustrated with this!,Negative,Anger
+I'm really scared about the future.,Negative,Fear
+This is such a pleasant surprise!,Positive,Surprise
+That was an unexpected turn of events!,Positive,Surprise
+I feel amazing today!,Positive,Joy
+Everything feels balanced.,Neutral,Calm
+I'm tired of this struggle.,Negative,Frustration
+I miss my best friend.,Negative,Sadness
+This is such a pleasant surprise!,Positive,Surprise
+Why does everything go wrong?,Negative,Anger
+This is so unfair!,Negative,Anger
+This is so annoying!,Negative,Frustration
+Nothing makes me happy anymore.,Negative,Sadness
+Just another normal day.,Neutral,Calm
+This is so annoying!,Negative,Frustration
+I am so frustrated with this!,Negative,Anger
+I just can't get this to work!,Negative,Frustration
+I don't know what will happen next.,Negative,Fear
+What a beautiful day!,Positive,Joy
+I'm really scared about the future.,Negative,Fear
+This success means so much to me.,Positive,Joy
+I can't believe it!,Positive,Surprise
+I just can't get this to work!,Negative,Frustration
+I love spending time with my family.,Positive,Joy
+I don't know what will happen next.,Negative,Fear
+I love spending time with my family.,Positive,Joy
+I feel unsafe.,Negative,Fear
+I don't know what will happen next.,Negative,Fear
+Everything is falling into place!,Positive,Joy
+This is so unfair!,Negative,Anger
+This situation is making me anxious.,Negative,Fear
+Everything feels balanced.,Neutral,Calm
+I love spending time with my family.,Positive,Joy
+I love spending time with my family.,Positive,Joy
+I feel so lonely.,Negative,Sadness
+I can't believe it!,Positive,Surprise
+Why is this so difficult?,Negative,Frustration
+This moment is so soothing.,Neutral,Calm
+Nothing makes me happy anymore.,Negative,Sadness
+Life feels so empty.,Negative,Sadness
+Life feels so empty.,Negative,Sadness
+I miss my best friend.,Negative,Sadness
+Didn't expect this but I'm thrilled!,Positive,Surprise
+I just can't get this to work!,Negative,Frustration
+Everything feels balanced.,Neutral,Calm
+Silence is comforting today.,Neutral,Calm
+I miss my best friend.,Negative,Sadness
+I'm really scared about the future.,Negative,Fear
+I'm so mad right now!,Negative,Anger
+This is such a pleasant surprise!,Positive,Surprise
+This is so annoying!,Negative,Frustration
+Life feels so empty.,Negative,Sadness
+Silence is comforting today.,Neutral,Calm
+This success means so much to me.,Positive,Joy
+I'm really scared about the future.,Negative,Fear
+This situation is making me anxious.,Negative,Fear
+That was an unexpected turn of events!,Positive,Surprise
+Life feels so empty.,Negative,Sadness
+Everything is falling into place!,Positive,Joy
+I feel so down today.,Negative,Sadness
+This situation is making me anxious.,Negative,Fear
+Why does everything go wrong?,Negative,Anger
+I'm really scared about the future.,Negative,Fear
+Didn't expect this but I'm thrilled!,Positive,Surprise
+Wow, I didn't see that coming!,Positive,Surprise
+I am so frustrated with this!,Negative,Anger
+Why is this so difficult?,Negative,Frustration
+Everything feels balanced.,Neutral,Calm
+This success means so much to me.,Positive,Joy
+Nothing is going my way.,Negative,Frustration
+I can't believe it!,Positive,Surprise
+What a beautiful day!,Positive,Joy
+Nothing is going my way.,Negative,Frustration
+Didn't expect this but I'm thrilled!,Positive,Surprise
+Why is this so difficult?,Negative,Frustration
+This is so annoying!,Negative,Frustration
+Just another normal day.,Neutral,Calm
+I just can't get this to work!,Negative,Frustration
+I feel amazing today!,Positive,Joy
+I'm feeling at peace.,Neutral,Calm
+Why is this so difficult?,Negative,Frustration
+Everything feels balanced.,Neutral,Calm
+This situation is making me anxious.,Negative,Fear
+I feel so down today.,Negative,Sadness
+I miss my best friend.,Negative,Sadness
+I'm really scared about the future.,Negative,Fear
+What a beautiful day!,Positive,Joy
+I love spending time with my family.,Positive,Joy
+Why is this so difficult?,Negative,Frustration
+This is such a pleasant surprise!,Positive,Surprise
+I love spending time with my family.,Positive,Joy
+Everything makes me nervous.,Negative,Fear
+I'm really scared about the future.,Negative,Fear
+I feel so down today.,Negative,Sadness
+Why do they always do this?,Negative,Anger
+Why is this so difficult?,Negative,Frustration
+Nothing is going my way.,Negative,Frustration
+Wow, I didn't see that coming!,Positive,Surprise
+Didn't expect this but I'm thrilled!,Positive,Surprise
+I'm tired of this struggle.,Negative,Frustration
+This is such a pleasant surprise!,Positive,Surprise
+Nothing makes me happy anymore.,Negative,Sadness
+I feel so lonely.,Negative,Sadness
+That was an unexpected turn of events!,Positive,Surprise
+I just can't get this to work!,Negative,Frustration
+What a beautiful day!,Positive,Joy
+This is so unfair!,Negative,Anger
+I feel unsafe.,Negative,Fear
+I love spending time with my family.,Positive,Joy
+Why do they always do this?,Negative,Anger
+What a beautiful day!,Positive,Joy
+I love spending time with my family.,Positive,Joy
+Everything makes me nervous.,Negative,Fear
+Why does everything go wrong?,Negative,Anger
+I feel amazing today!,Positive,Joy
+Silence is comforting today.,Neutral,Calm
+This moment is so soothing.,Neutral,Calm
+This is so annoying!,Negative,Frustration
+I miss my best friend.,Negative,Sadness
+Nothing makes me happy anymore.,Negative,Sadness
+This success means so much to me.,Positive,Joy
+I'm so mad right now!,Negative,Anger
+Why does everything go wrong?,Negative,Anger
+Silence is comforting today.,Neutral,Calm
+I feel unsafe.,Negative,Fear
+Everything feels balanced.,Neutral,Calm
+Why does everything go wrong?,Negative,Anger
+I miss my best friend.,Negative,Sadness
+Everything makes me nervous.,Negative,Fear
+I feel so lonely.,Negative,Sadness
+Nothing is going my way.,Negative,Frustration
+This is so annoying!,Negative,Frustration
+Why do they always do this?,Negative,Anger
+Life feels so empty.,Negative,Sadness
+Life feels so empty.,Negative,Sadness
+I am so frustrated with this!,Negative,Anger
+Life feels so empty.,Negative,Sadness
+I don't know what will happen next.,Negative,Fear
+This moment is so soothing.,Neutral,Calm
+This is so unfair!,Negative,Anger
+Didn't expect this but I'm thrilled!,Positive,Surprise
+Everything is falling into place!,Positive,Joy
+Why does everything go wrong?,Negative,Anger
+This is such a pleasant surprise!,Positive,Surprise
+Why do they always do this?,Negative,Anger
+This is so unfair!,Negative,Anger
+I'm really scared about the future.,Negative,Fear
+Everything makes me nervous.,Negative,Fear
+I feel so lonely.,Negative,Sadness
+This situation is making me anxious.,Negative,Fear
+Why is this so difficult?,Negative,Frustration
+Why does everything go wrong?,Negative,Anger
+I'm so mad right now!,Negative,Anger
+Everything makes me nervous.,Negative,Fear
+I just can't get this to work!,Negative,Frustration
+I feel so down today.,Negative,Sadness
+I'm feeling at peace.,Neutral,Calm
+This is such a pleasant surprise!,Positive,Surprise
+Why do they always do this?,Negative,Anger
+I feel so down today.,Negative,Sadness
+What a beautiful day!,Positive,Joy
+I can't believe it!,Positive,Surprise
+I'm so mad right now!,Negative,Anger
+Everything makes me nervous.,Negative,Fear
+This success means so much to me.,Positive,Joy
+I don't know what will happen next.,Negative,Fear
+Everything feels balanced.,Neutral,Calm
+This is so unfair!,Negative,Anger
+Why does everything go wrong?,Negative,Anger
+This situation is making me anxious.,Negative,Fear
+This is such a pleasant surprise!,Positive,Surprise
+This is so annoying!,Negative,Frustration
+Just another normal day.,Neutral,Calm
+I can't believe it!,Positive,Surprise
+This situation is making me anxious.,Negative,Fear
+I'm tired of this struggle.,Negative,Frustration
+I'm so mad right now!,Negative,Anger
+I don't know what will happen next.,Negative,Fear
+I love spending time with my family.,Positive,Joy
+Why do they always do this?,Negative,Anger
+I'm tired of this struggle.,Negative,Frustration
+Silence is comforting today.,Neutral,Calm
+Why does everything go wrong?,Negative,Anger
+Why do they always do this?,Negative,Anger
+Why does everything go wrong?,Negative,Anger
+Nothing is going my way.,Negative,Frustration
+I just can't get this to work!,Negative,Frustration
+Nothing is going my way.,Negative,Frustration
+What a beautiful day!,Positive,Joy
+I just can't get this to work!,Negative,Frustration
+That was an unexpected turn of events!,Positive,Surprise
+I just can't get this to work!,Negative,Frustration
+Why do they always do this?,Negative,Anger
+I'm feeling at peace.,Neutral,Calm
+Just another normal day.,Neutral,Calm
+I just can't get this to work!,Negative,Frustration
+I can't believe it!,Positive,Surprise
+Why is this so difficult?,Negative,Frustration
+Everything is falling into place!,Positive,Joy
+I miss my best friend.,Negative,Sadness
+Why does everything go wrong?,Negative,Anger
+I'm really scared about the future.,Negative,Fear
+Everything feels balanced.,Neutral,Calm
+Everything feels balanced.,Neutral,Calm
+I can't believe it!,Positive,Surprise
+I love spending time with my family.,Positive,Joy
+I'm really scared about the future.,Negative,Fear
+Wow, I didn't see that coming!,Positive,Surprise
+I don't know what will happen next.,Negative,Fear
+Why do they always do this?,Negative,Anger
+Nothing makes me happy anymore.,Negative,Sadness
+I feel so lonely.,Negative,Sadness
+This moment is so soothing.,Neutral,Calm
+This is such a pleasant surprise!,Positive,Surprise
+Didn't expect this but I'm thrilled!,Positive,Surprise
+Didn't expect this but I'm thrilled!,Positive,Surprise
+I love spending time with my family.,Positive,Joy
+This is such a pleasant surprise!,Positive,Surprise
+This is so unfair!,Negative,Anger
+That was an unexpected turn of events!,Positive,Surprise
+Everything feels balanced.,Neutral,Calm
+I miss my best friend.,Negative,Sadness
+Why do they always do this?,Negative,Anger
+I'm feeling at peace.,Neutral,Calm
+This is so unfair!,Negative,Anger
+This is so unfair!,Negative,Anger
+I'm really scared about the future.,Negative,Fear
+Why is this so difficult?,Negative,Frustration
+This moment is so soothing.,Neutral,Calm
+I feel amazing today!,Positive,Joy
+I'm feeling at peace.,Neutral,Calm
+I miss my best friend.,Negative,Sadness
+Wow, I didn't see that coming!,Positive,Surprise
+Life feels so empty.,Negative,Sadness
+Everything makes me nervous.,Negative,Fear
+This situation is making me anxious.,Negative,Fear
+I feel unsafe.,Negative,Fear
+I'm so mad right now!,Negative,Anger
+Nothing makes me happy anymore.,Negative,Sadness
+I'm feeling at peace.,Neutral,Calm
+Everything feels balanced.,Neutral,Calm
+Nothing makes me happy anymore.,Negative,Sadness
+This success means so much to me.,Positive,Joy
+I feel unsafe.,Negative,Fear
+I feel unsafe.,Negative,Fear
+Everything feels balanced.,Neutral,Calm
+This is such a pleasant surprise!,Positive,Surprise
+I feel so down today.,Negative,Sadness
+I don't know what will happen next.,Negative,Fear
+I don't know what will happen next.,Negative,Fear
+This is so unfair!,Negative,Anger
+I'm feeling at peace.,Neutral,Calm
+Everything is falling into place!,Positive,Joy
+I'm feeling at peace.,Neutral,Calm
+I feel unsafe.,Negative,Fear
+I feel so down today.,Negative,Sadness
+I feel so lonely.,Negative,Sadness
+I am so frustrated with this!,Negative,Anger
+I miss my best friend.,Negative,Sadness
+What a beautiful day!,Positive,Joy
+I am so frustrated with this!,Negative,Anger
+I feel unsafe.,Negative,Fear
+I love spending time with my family.,Positive,Joy
+Didn't expect this but I'm thrilled!,Positive,Surprise
+I love spending time with my family.,Positive,Joy
+I'm feeling at peace.,Neutral,Calm
+I feel unsafe.,Negative,Fear
+What a beautiful day!,Positive,Joy
+Everything feels balanced.,Neutral,Calm
+This is so unfair!,Negative,Anger
+I am so frustrated with this!,Negative,Anger
+This is such a pleasant surprise!,Positive,Surprise
+Why is this so difficult?,Negative,Frustration
+This moment is so soothing.,Neutral,Calm
+I am so frustrated with this!,Negative,Anger
+Everything makes me nervous.,Negative,Fear
+Wow, I didn't see that coming!,Positive,Surprise
+Nothing is going my way.,Negative,Frustration
+This is so annoying!,Negative,Frustration
+Why do they always do this?,Negative,Anger
+I feel unsafe.,Negative,Fear
+I'm so mad right now!,Negative,Anger
+What a beautiful day!,Positive,Joy
+Why do they always do this?,Negative,Anger
+I feel unsafe.,Negative,Fear
+Why does everything go wrong?,Negative,Anger
+Everything feels balanced.,Neutral,Calm
+I am so frustrated with this!,Negative,Anger
+I just can't get this to work!,Negative,Frustration
+Nothing makes me happy anymore.,Negative,Sadness
+Wow, I didn't see that coming!,Positive,Surprise
+I can't believe it!,Positive,Surprise
+Everything feels balanced.,Neutral,Calm
+Didn't expect this but I'm thrilled!,Positive,Surprise
+Didn't expect this but I'm thrilled!,Positive,Surprise
+This moment is so soothing.,Neutral,Calm
+Nothing is going my way.,Negative,Frustration
+Nothing is going my way.,Negative,Frustration
+I don't know what will happen next.,Negative,Fear
+I feel so down today.,Negative,Sadness
+I am so frustrated with this!,Negative,Anger
+I miss my best friend.,Negative,Sadness
+I can't believe it!,Positive,Surprise
+Nothing is going my way.,Negative,Frustration
+I miss my best friend.,Negative,Sadness
+Everything makes me nervous.,Negative,Fear
+I feel unsafe.,Negative,Fear
+I love spending time with my family.,Positive,Joy
+I feel amazing today!,Positive,Joy
+This success means so much to me.,Positive,Joy
+I just can't get this to work!,Negative,Frustration
+This situation is making me anxious.,Negative,Fear
+Nothing is going my way.,Negative,Frustration
+This is so unfair!,Negative,Anger
+Why do they always do this?,Negative,Anger
+I feel so down today.,Negative,Sadness
+I feel so down today.,Negative,Sadness
+I just can't get this to work!,Negative,Frustration
+This is such a pleasant surprise!,Positive,Surprise
+I feel unsafe.,Negative,Fear
+This success means so much to me.,Positive,Joy
+Didn't expect this but I'm thrilled!,Positive,Surprise
+This situation is making me anxious.,Negative,Fear
+I'm tired of this struggle.,Negative,Frustration
+Didn't expect this but I'm thrilled!,Positive,Surprise
+I just can't get this to work!,Negative,Frustration
+Wow, I didn't see that coming!,Positive,Surprise
+I'm so mad right now!,Negative,Anger
+This is such a pleasant surprise!,Positive,Surprise
+Nothing is going my way.,Negative,Frustration
+This success means so much to me.,Positive,Joy
+Wow, I didn't see that coming!,Positive,Surprise
+Nothing is going my way.,Negative,Frustration
+Didn't expect this but I'm thrilled!,Positive,Surprise
+Why does everything go wrong?,Negative,Anger
+Nothing makes me happy anymore.,Negative,Sadness
+This success means so much to me.,Positive,Joy
+Wow, I didn't see that coming!,Positive,Surprise
+What a beautiful day!,Positive,Joy
+That was an unexpected turn of events!,Positive,Surprise
+Didn't expect this but I'm thrilled!,Positive,Surprise
+Everything makes me nervous.,Negative,Fear
+Everything is falling into place!,Positive,Joy
+Life feels so empty.,Negative,Sadness
+That was an unexpected turn of events!,Positive,Surprise
+Why is this so difficult?,Negative,Frustration
+This is so annoying!,Negative,Frustration
+I can't believe it!,Positive,Surprise
+That was an unexpected turn of events!,Positive,Surprise
+What a beautiful day!,Positive,Joy
+I feel amazing today!,Positive,Joy
+This moment is so soothing.,Neutral,Calm
+This situation is making me anxious.,Negative,Fear
+That was an unexpected turn of events!,Positive,Surprise
+I feel so down today.,Negative,Sadness
+Why does everything go wrong?,Negative,Anger
+Life feels so empty.,Negative,Sadness
+This is such a pleasant surprise!,Positive,Surprise
+Silence is comforting today.,Neutral,Calm
+I feel so lonely.,Negative,Sadness
+Life feels so empty.,Negative,Sadness
+Why is this so difficult?,Negative,Frustration
+Just another normal day.,Neutral,Calm
+I feel unsafe.,Negative,Fear
+Nothing makes me happy anymore.,Negative,Sadness
+I feel unsafe.,Negative,Fear
+I can't believe it!,Positive,Surprise
+What a beautiful day!,Positive,Joy
+I feel so down today.,Negative,Sadness
+I feel so down today.,Negative,Sadness
+I feel so lonely.,Negative,Sadness
+I'm so mad right now!,Negative,Anger
+This is so annoying!,Negative,Frustration
+This is such a pleasant surprise!,Positive,Surprise
+Why does everything go wrong?,Negative,Anger
+I love spending time with my family.,Positive,Joy
+I am so frustrated with this!,Negative,Anger
+I love spending time with my family.,Positive,Joy
+I'm feeling at peace.,Neutral,Calm
+Silence is comforting today.,Neutral,Calm
+This situation is making me anxious.,Negative,Fear
+This is so unfair!,Negative,Anger
+That was an unexpected turn of events!,Positive,Surprise
+What a beautiful day!,Positive,Joy
+I'm really scared about the future.,Negative,Fear
+Everything feels balanced.,Neutral,Calm
+Life feels so empty.,Negative,Sadness
+I feel so down today.,Negative,Sadness
+Why does everything go wrong?,Negative,Anger
+Why is this so difficult?,Negative,Frustration
+I'm feeling at peace.,Neutral,Calm
+This moment is so soothing.,Neutral,Calm
+This is so annoying!,Negative,Frustration
+I don't know what will happen next.,Negative,Fear
+I am so frustrated with this!,Negative,Anger
+This is so unfair!,Negative,Anger
+I just can't get this to work!,Negative,Frustration
+This situation is making me anxious.,Negative,Fear
+I'm so mad right now!,Negative,Anger
+This is such a pleasant surprise!,Positive,Surprise
+Everything makes me nervous.,Negative,Fear
+Everything is falling into place!,Positive,Joy
+Silence is comforting today.,Neutral,Calm
+I feel so down today.,Negative,Sadness
+I'm tired of this struggle.,Negative,Frustration
+I miss my best friend.,Negative,Sadness
+I feel so lonely.,Negative,Sadness
+I'm really scared about the future.,Negative,Fear
+This success means so much to me.,Positive,Joy
+Silence is comforting today.,Neutral,Calm
+This is so annoying!,Negative,Frustration
+Why does everything go wrong?,Negative,Anger
+I feel unsafe.,Negative,Fear
+Everything makes me nervous.,Negative,Fear
+I'm really scared about the future.,Negative,Fear
+Nothing is going my way.,Negative,Frustration
+This is so annoying!,Negative,Frustration
+I love spending time with my family.,Positive,Joy
+Why does everything go wrong?,Negative,Anger
+This success means so much to me.,Positive,Joy
+I feel so lonely.,Negative,Sadness
+I miss my best friend.,Negative,Sadness
+Just another normal day.,Neutral,Calm
+I am so frustrated with this!,Negative,Anger
+Just another normal day.,Neutral,Calm
+I don't know what will happen next.,Negative,Fear
+I don't know what will happen next.,Negative,Fear
+I love spending time with my family.,Positive,Joy
+This moment is so soothing.,Neutral,Calm
+Why does everything go wrong?,Negative,Anger
+This success means so much to me.,Positive,Joy
+This success means so much to me.,Positive,Joy
+This moment is so soothing.,Neutral,Calm
+I can't believe it!,Positive,Surprise
+This is such a pleasant surprise!,Positive,Surprise
+Why does everything go wrong?,Negative,Anger
+I am so frustrated with this!,Negative,Anger
+Nothing is going my way.,Negative,Frustration
+I just can't get this to work!,Negative,Frustration
+This success means so much to me.,Positive,Joy
+Everything feels balanced.,Neutral,Calm
+This is so unfair!,Negative,Anger
+Didn't expect this but I'm thrilled!,Positive,Surprise
+Everything makes me nervous.,Negative,Fear
+Nothing is going my way.,Negative,Frustration
+Everything is falling into place!,Positive,Joy
+I just can't get this to work!,Negative,Frustration
+This is so annoying!,Negative,Frustration
+Just another normal day.,Neutral,Calm
+Why does everything go wrong?,Negative,Anger
+That was an unexpected turn of events!,Positive,Surprise
+I'm feeling at peace.,Neutral,Calm
+Nothing is going my way.,Negative,Frustration
+Life feels so empty.,Negative,Sadness
+This success means so much to me.,Positive,Joy
+I'm feeling at peace.,Neutral,Calm
+I just can't get this to work!,Negative,Frustration
+Everything feels balanced.,Neutral,Calm
+Nothing is going my way.,Negative,Frustration
+I can't believe it!,Positive,Surprise
+What a beautiful day!,Positive,Joy
+Why is this so difficult?,Negative,Frustration
+I'm so mad right now!,Negative,Anger
+This is such a pleasant surprise!,Positive,Surprise
+Everything feels balanced.,Neutral,Calm
+Silence is comforting today.,Neutral,Calm
+Everything feels balanced.,Neutral,Calm
+I miss my best friend.,Negative,Sadness
+Life feels so empty.,Negative,Sadness
+Why is this so difficult?,Negative,Frustration
+Life feels so empty.,Negative,Sadness
+This success means so much to me.,Positive,Joy
+I don't know what will happen next.,Negative,Fear
+I miss my best friend.,Negative,Sadness
+I feel so down today.,Negative,Sadness
+I'm really scared about the future.,Negative,Fear
+Why do they always do this?,Negative,Anger
+Didn't expect this but I'm thrilled!,Positive,Surprise
+This success means so much to me.,Positive,Joy
+I feel unsafe.,Negative,Fear
+Silence is comforting today.,Neutral,Calm
+I don't know what will happen next.,Negative,Fear
+I'm really scared about the future.,Negative,Fear
+That was an unexpected turn of events!,Positive,Surprise
+I love spending time with my family.,Positive,Joy
+This is so unfair!,Negative,Anger
+Silence is comforting today.,Neutral,Calm
+I'm feeling at peace.,Neutral,Calm
+I'm really scared about the future.,Negative,Fear
+Nothing is going my way.,Negative,Frustration
+Just another normal day.,Neutral,Calm
+Everything feels balanced.,Neutral,Calm
+Why is this so difficult?,Negative,Frustration
+I'm tired of this struggle.,Negative,Frustration
+Silence is comforting today.,Neutral,Calm
+I feel amazing today!,Positive,Joy
+I'm so mad right now!,Negative,Anger
+I just can't get this to work!,Negative,Frustration
+Everything is falling into place!,Positive,Joy
+I feel so lonely.,Negative,Sadness
+I just can't get this to work!,Negative,Frustration
+Everything is falling into place!,Positive,Joy
+Nothing is going my way.,Negative,Frustration
+This situation is making me anxious.,Negative,Fear
+I just can't get this to work!,Negative,Frustration
+I don't know what will happen next.,Negative,Fear
+I feel unsafe.,Negative,Fear
+This situation is making me anxious.,Negative,Fear
+This situation is making me anxious.,Negative,Fear
+I don't know what will happen next.,Negative,Fear
+I feel amazing today!,Positive,Joy
+That was an unexpected turn of events!,Positive,Surprise
+I can't believe it!,Positive,Surprise
+This success means so much to me.,Positive,Joy
+I miss my best friend.,Negative,Sadness
+This is so unfair!,Negative,Anger
+I feel so down today.,Negative,Sadness
+I miss my best friend.,Negative,Sadness
+I don't know what will happen next.,Negative,Fear
+This situation is making me anxious.,Negative,Fear
+Silence is comforting today.,Neutral,Calm
+What a beautiful day!,Positive,Joy
+I can't believe it!,Positive,Surprise
+This situation is making me anxious.,Negative,Fear
+Silence is comforting today.,Neutral,Calm
+I can't believe it!,Positive,Surprise
+I love spending time with my family.,Positive,Joy
+I'm tired of this struggle.,Negative,Frustration
+I love spending time with my family.,Positive,Joy
+Just another normal day.,Neutral,Calm
+I miss my best friend.,Negative,Sadness
+This success means so much to me.,Positive,Joy
+I just can't get this to work!,Negative,Frustration
+I love spending time with my family.,Positive,Joy
+What a beautiful day!,Positive,Joy
+Everything is falling into place!,Positive,Joy
+Everything feels balanced.,Neutral,Calm
+Didn't expect this but I'm thrilled!,Positive,Surprise
+Life feels so empty.,Negative,Sadness
+Everything makes me nervous.,Negative,Fear
+I feel so down today.,Negative,Sadness
+That was an unexpected turn of events!,Positive,Surprise
+Life feels so empty.,Negative,Sadness
+I'm really scared about the future.,Negative,Fear
+Silence is comforting today.,Neutral,Calm
+Everything makes me nervous.,Negative,Fear
+I'm so mad right now!,Negative,Anger
+I feel so lonely.,Negative,Sadness
+I'm tired of this struggle.,Negative,Frustration
+This situation is making me anxious.,Negative,Fear
+This is so unfair!,Negative,Anger
+I can't believe it!,Positive,Surprise
+Everything is falling into place!,Positive,Joy
+This situation is making me anxious.,Negative,Fear
+I'm feeling at peace.,Neutral,Calm
+This is such a pleasant surprise!,Positive,Surprise
+Everything feels balanced.,Neutral,Calm
+Everything makes me nervous.,Negative,Fear
+I feel so down today.,Negative,Sadness
+I don't know what will happen next.,Negative,Fear
+I feel amazing today!,Positive,Joy
+Nothing is going my way.,Negative,Frustration
+Everything feels balanced.,Neutral,Calm
+Everything feels balanced.,Neutral,Calm
+Silence is comforting today.,Neutral,Calm
+I can't believe it!,Positive,Surprise
+This situation is making me anxious.,Negative,Fear
+Silence is comforting today.,Neutral,Calm
+I just can't get this to work!,Negative,Frustration
+Wow, I didn't see that coming!,Positive,Surprise
+This is such a pleasant surprise!,Positive,Surprise
+I feel amazing today!,Positive,Joy
+Life feels so empty.,Negative,Sadness
+I'm really scared about the future.,Negative,Fear
+This is such a pleasant surprise!,Positive,Surprise
+Wow, I didn't see that coming!,Positive,Surprise
+Nothing is going my way.,Negative,Frustration
+Everything feels balanced.,Neutral,Calm
+This is so unfair!,Negative,Anger
+Everything makes me nervous.,Negative,Fear
+Just another normal day.,Neutral,Calm
+Life feels so empty.,Negative,Sadness
+Didn't expect this but I'm thrilled!,Positive,Surprise
+That was an unexpected turn of events!,Positive,Surprise
+I'm feeling at peace.,Neutral,Calm
+Why is this so difficult?,Negative,Frustration
+I am so frustrated with this!,Negative,Anger
+I just can't get this to work!,Negative,Frustration
+This is so unfair!,Negative,Anger
+I feel amazing today!,Positive,Joy
+This is such a pleasant surprise!,Positive,Surprise
+Nothing makes me happy anymore.,Negative,Sadness
+I feel unsafe.,Negative,Fear
+This is such a pleasant surprise!,Positive,Surprise
+I feel unsafe.,Negative,Fear
+Why is this so difficult?,Negative,Frustration
+Why does everything go wrong?,Negative,Anger
+What a beautiful day!,Positive,Joy
+This is so annoying!,Negative,Frustration
+Wow, I didn't see that coming!,Positive,Surprise
+Nothing makes me happy anymore.,Negative,Sadness
+Everything makes me nervous.,Negative,Fear
+Nothing is going my way.,Negative,Frustration
+I love spending time with my family.,Positive,Joy
+I am so frustrated with this!,Negative,Anger
+That was an unexpected turn of events!,Positive,Surprise
+I miss my best friend.,Negative,Sadness
+This is so unfair!,Negative,Anger
+This is such a pleasant surprise!,Positive,Surprise
+I'm so mad right now!,Negative,Anger
+I'm so mad right now!,Negative,Anger
+I love spending time with my family.,Positive,Joy
+This moment is so soothing.,Neutral,Calm
+I am so frustrated with this!,Negative,Anger
+Didn't expect this but I'm thrilled!,Positive,Surprise
+I'm feeling at peace.,Neutral,Calm
+That was an unexpected turn of events!,Positive,Surprise
+Why does everything go wrong?,Negative,Anger
+Why do they always do this?,Negative,Anger
+Everything makes me nervous.,Negative,Fear
+I don't know what will happen next.,Negative,Fear
+Everything makes me nervous.,Negative,Fear
+I can't believe it!,Positive,Surprise
+I can't believe it!,Positive,Surprise
+I'm so mad right now!,Negative,Anger
+Why does everything go wrong?,Negative,Anger
+Everything feels balanced.,Neutral,Calm
+I'm so mad right now!,Negative,Anger
+This is such a pleasant surprise!,Positive,Surprise
+I can't believe it!,Positive,Surprise
+I can't believe it!,Positive,Surprise
+I don't know what will happen next.,Negative,Fear
+This success means so much to me.,Positive,Joy
+This is such a pleasant surprise!,Positive,Surprise
+This is such a pleasant surprise!,Positive,Surprise
+Why does everything go wrong?,Negative,Anger
+I feel so down today.,Negative,Sadness
+This situation is making me anxious.,Negative,Fear
+Wow, I didn't see that coming!,Positive,Surprise
+Just another normal day.,Neutral,Calm
+Wow, I didn't see that coming!,Positive,Surprise
+Just another normal day.,Neutral,Calm
+This moment is so soothing.,Neutral,Calm
+Everything is falling into place!,Positive,Joy
+Nothing is going my way.,Negative,Frustration
+I'm really scared about the future.,Negative,Fear
+I feel unsafe.,Negative,Fear
+Nothing makes me happy anymore.,Negative,Sadness
+This is such a pleasant surprise!,Positive,Surprise
+Everything is falling into place!,Positive,Joy
+Silence is comforting today.,Neutral,Calm
+Nothing is going my way.,Negative,Frustration
+I feel so lonely.,Negative,Sadness
+I'm tired of this struggle.,Negative,Frustration
+I miss my best friend.,Negative,Sadness
+I can't believe it!,Positive,Surprise
+I feel unsafe.,Negative,Fear
+I don't know what will happen next.,Negative,Fear
+Just another normal day.,Neutral,Calm
+Everything makes me nervous.,Negative,Fear
+What a beautiful day!,Positive,Joy
+Life feels so empty.,Negative,Sadness
+I'm so mad right now!,Negative,Anger
+Everything feels balanced.,Neutral,Calm
+That was an unexpected turn of events!,Positive,Surprise
+Why is this so difficult?,Negative,Frustration
+I feel unsafe.,Negative,Fear
+I'm tired of this struggle.,Negative,Frustration
+Everything is falling into place!,Positive,Joy
+Why do they always do this?,Negative,Anger
+This is so annoying!,Negative,Frustration
+I feel unsafe.,Negative,Fear
+Everything makes me nervous.,Negative,Fear
+I feel so lonely.,Negative,Sadness
+I'm so mad right now!,Negative,Anger
+I am so frustrated with this!,Negative,Anger
+This success means so much to me.,Positive,Joy
+That was an unexpected turn of events!,Positive,Surprise
+Wow, I didn't see that coming!,Positive,Surprise
+I just can't get this to work!,Negative,Frustration
+Why is this so difficult?,Negative,Frustration
+This is such a pleasant surprise!,Positive,Surprise
+Wow, I didn't see that coming!,Positive,Surprise
+Why is this so difficult?,Negative,Frustration
+I don't know what will happen next.,Negative,Fear
+I feel so down today.,Negative,Sadness
+I'm tired of this struggle.,Negative,Frustration
+I am so frustrated with this!,Negative,Anger
+What a beautiful day!,Positive,Joy
+Everything feels balanced.,Neutral,Calm
+Everything makes me nervous.,Negative,Fear
+Silence is comforting today.,Neutral,Calm
+Everything makes me nervous.,Negative,Fear
+Why do they always do this?,Negative,Anger
+I am so frustrated with this!,Negative,Anger
+Didn't expect this but I'm thrilled!,Positive,Surprise
+Silence is comforting today.,Neutral,Calm
+I love spending time with my family.,Positive,Joy
+Silence is comforting today.,Neutral,Calm
+What a beautiful day!,Positive,Joy
+This success means so much to me.,Positive,Joy
+Wow, I didn't see that coming!,Positive,Surprise
+Everything feels balanced.,Neutral,Calm
+I feel so lonely.,Negative,Sadness
+Everything makes me nervous.,Negative,Fear
+I'm feeling at peace.,Neutral,Calm
+I feel so lonely.,Negative,Sadness
+I'm feeling at peace.,Neutral,Calm
+Life feels so empty.,Negative,Sadness
+Why do they always do this?,Negative,Anger
+Why do they always do this?,Negative,Anger
+Why do they always do this?,Negative,Anger
+Why does everything go wrong?,Negative,Anger
+Why do they always do this?,Negative,Anger
+That was an unexpected turn of events!,Positive,Surprise
+Everything makes me nervous.,Negative,Fear
+I miss my best friend.,Negative,Sadness
+This is so unfair!,Negative,Anger
+Life feels so empty.,Negative,Sadness
+I just can't get this to work!,Negative,Frustration
+I feel unsafe.,Negative,Fear
+Everything makes me nervous.,Negative,Fear
+Silence is comforting today.,Neutral,Calm
+Nothing makes me happy anymore.,Negative,Sadness
+Everything makes me nervous.,Negative,Fear
+I just can't get this to work!,Negative,Frustration
+Everything is falling into place!,Positive,Joy
+I feel so down today.,Negative,Sadness
+This moment is so soothing.,Neutral,Calm
+I just can't get this to work!,Negative,Frustration
+Everything is falling into place!,Positive,Joy
+I can't believe it!,Positive,Surprise
+Life feels so empty.,Negative,Sadness
+I love spending time with my family.,Positive,Joy
+I miss my best friend.,Negative,Sadness
+I'm so mad right now!,Negative,Anger
+I can't believe it!,Positive,Surprise
+This is so annoying!,Negative,Frustration
+I'm really scared about the future.,Negative,Fear
+I am so frustrated with this!,Negative,Anger
+This is so unfair!,Negative,Anger
+I'm really scared about the future.,Negative,Fear
+This success means so much to me.,Positive,Joy
+Nothing is going my way.,Negative,Frustration
+I'm so mad right now!,Negative,Anger
+Just another normal day.,Neutral,Calm
+Why do they always do this?,Negative,Anger
+Nothing is going my way.,Negative,Frustration
+I'm really scared about the future.,Negative,Fear
+I am so frustrated with this!,Negative,Anger
+Wow, I didn't see that coming!,Positive,Surprise
+I feel unsafe.,Negative,Fear
+Nothing is going my way.,Negative,Frustration
+Didn't expect this but I'm thrilled!,Positive,Surprise
+I am so frustrated with this!,Negative,Anger
+I'm so mad right now!,Negative,Anger
+I'm feeling at peace.,Neutral,Calm
+I don't know what will happen next.,Negative,Fear
+This is such a pleasant surprise!,Positive,Surprise
+Why is this so difficult?,Negative,Frustration
+I love spending time with my family.,Positive,Joy
+I don't know what will happen next.,Negative,Fear
+Didn't expect this but I'm thrilled!,Positive,Surprise
+I just can't get this to work!,Negative,Frustration
+Nothing is going my way.,Negative,Frustration
+I'm feeling at peace.,Neutral,Calm
+I'm really scared about the future.,Negative,Fear
+Everything is falling into place!,Positive,Joy
+This is such a pleasant surprise!,Positive,Surprise
+I feel amazing today!,Positive,Joy
+I feel so down today.,Negative,Sadness
+Didn't expect this but I'm thrilled!,Positive,Surprise
+This is so annoying!,Negative,Frustration
+I am so frustrated with this!,Negative,Anger
+This is so unfair!,Negative,Anger
+I love spending time with my family.,Positive,Joy
+I can't believe it!,Positive,Surprise
+I am so frustrated with this!,Negative,Anger
+Everything is falling into place!,Positive,Joy
+Why do they always do this?,Negative,Anger
+Silence is comforting today.,Neutral,Calm
+Everything is falling into place!,Positive,Joy
+Everything feels balanced.,Neutral,Calm
+Silence is comforting today.,Neutral,Calm
+I'm really scared about the future.,Negative,Fear
+I feel amazing today!,Positive,Joy
+That was an unexpected turn of events!,Positive,Surprise
+That was an unexpected turn of events!,Positive,Surprise
+That was an unexpected turn of events!,Positive,Surprise
+Didn't expect this but I'm thrilled!,Positive,Surprise
+I don't know what will happen next.,Negative,Fear
+I feel so lonely.,Negative,Sadness
+I don't know what will happen next.,Negative,Fear
+Why does everything go wrong?,Negative,Anger
+Why does everything go wrong?,Negative,Anger
+I'm tired of this struggle.,Negative,Frustration
+I miss my best friend.,Negative,Sadness
+Everything is falling into place!,Positive,Joy
+I feel so down today.,Negative,Sadness
+I don't know what will happen next.,Negative,Fear
+This moment is so soothing.,Neutral,Calm
+Life feels so empty.,Negative,Sadness
+This moment is so soothing.,Neutral,Calm
+I don't know what will happen next.,Negative,Fear
+I'm tired of this struggle.,Negative,Frustration
+Why is this so difficult?,Negative,Frustration
+Why do they always do this?,Negative,Anger
+I am so frustrated with this!,Negative,Anger
+Nothing makes me happy anymore.,Negative,Sadness
+I can't believe it!,Positive,Surprise
+I feel so down today.,Negative,Sadness
+What a beautiful day!,Positive,Joy
+This is so unfair!,Negative,Anger
+I'm really scared about the future.,Negative,Fear
+This is such a pleasant surprise!,Positive,Surprise
+This situation is making me anxious.,Negative,Fear
+This moment is so soothing.,Neutral,Calm
+Everything makes me nervous.,Negative,Fear
+This success means so much to me.,Positive,Joy
+Life feels so empty.,Negative,Sadness
+This situation is making me anxious.,Negative,Fear
+This moment is so soothing.,Neutral,Calm
+Wow, I didn't see that coming!,Positive,Surprise
+I'm really scared about the future.,Negative,Fear
+I love spending time with my family.,Positive,Joy
+Life feels so empty.,Negative,Sadness
+Why do they always do this?,Negative,Anger
+I'm so mad right now!,Negative,Anger
+Why do they always do this?,Negative,Anger
+I'm feeling at peace.,Neutral,Calm
+Everything is falling into place!,Positive,Joy
+Why is this so difficult?,Negative,Frustration
+Why do they always do this?,Negative,Anger
+Nothing makes me happy anymore.,Negative,Sadness
